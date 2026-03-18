@@ -8,18 +8,18 @@ Our writeups are categorized by technical domain. Each folder contains challenge
 | Category | Description | Index Link |
 | :--- | :--- | :--- |
 | **🤖 AI** | Adversarial ML, model inversion, and LLM jailbreaking. | [Index](AI/INDEX.md) |
-| **⛓️ Blockchain** | Smart contract auditing and DeFi protocol exploits. | [Index](BlockChain/INDEX.md) |
-| **☁️ Cloud Security** | AWS/Azure/GCP misconfigurations and container escapes. |
-| **🔑 Cryptography** | Classic ciphers, RSA/AES attacks, and custom LCGs. |
-| **🔍 Digital Forensics** | PCAP analysis, memory dumps, and disk artifacts. |
-| **💥 Exploitation (PWN)** | Binary exploitation, heap grooming, and kernel pwn. |
-| **📟 Hardware** | Firmware reversing, JTAG/UART, and SDR. |
-| **🌀 Miscellaneous** | Logic puzzles, jail-breaks, and esoteric languages. |
-| **📱 Mobile** | Hacking into android. |
-| **🛰️ OSINT** | Geolocation, social engineering, and public data mining. |
-| **🛠️ Reverse Engineering** | Disassembling ELF/PE binaries and malware analysis. |
-| **🖼️ Steganography** | LSB encoding, metadata analysis, and hidden streams. |
-| **🌐 Web Exploitation** | XSS, SQLi, SSRF, and modern web vulnerabilities. |
+| **⛓️ Blockchain** | Smart contract auditing and DeFi protocol exploits. | [Index](Blockchain/INDEX.md) |
+| **☁️ Cloud Security** | AWS/Azure/GCP misconfigurations and container escapes. | [Index](CloudSecurity/INDEX.md) |
+| **🔑 Cryptography** | Classic ciphers, RSA/AES attacks, and custom LCGs. | [Index](Cryptography/INDEX.md) |
+| **🔍 Digital Forensics** | PCAP analysis, memory dumps, and disk artifacts. | [Index](DigitalForensics/INDEX.md) |
+| **💥 Exploitation (PWN)** | Binary exploitation, heap grooming, and kernel pwn. | [Index](Exploitation(PWN)/INDEX.md) |
+| **📟 Hardware** | Firmware reversing, JTAG/UART, and SDR. | [Index](Hardware/INDEX.md) |
+| **🌀 Miscellaneous** | Logic puzzles, jail-breaks, and esoteric languages. | [Index](Miscellaneous/INDEX.md) |
+| **📱 Mobile** | Hacking into android. | [Index](Mobile/INDEX.md) |
+| **🛰️ OSINT** | Geolocation, social engineering, and public data mining. | [Index](OSINT/INDEX.md) |
+| **🛠️ Reverse Engineering** | Disassembling ELF/PE binaries and malware analysis. | [Index](ReverseEngineering/INDEX.md) |
+| **🖼️ Steganography** | LSB encoding, metadata analysis, and hidden streams. | [Index](Steganography/INDEX.md) |
+| **🌐 Web Exploitation** | XSS, SQLi, SSRF, and modern web vulnerabilities. | [Index](WebExploitation/INDEX.md) |
 
 ---
 
