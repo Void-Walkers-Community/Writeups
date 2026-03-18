@@ -1,4 +1,4 @@
-## 🗺️ Operation Index (Completed Writeups)
+## 📟 Operation Index (Completed Writeups)
 
 |Sl. No| Date | Event | Challenge | Writeup Link | Author |
 | :--- | :--- | :--- | :--- | :--- | :---|
