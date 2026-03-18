@@ -15,6 +15,7 @@ Our writeups are categorized by technical domain. Each folder contains challenge
 | **💥 Exploitation (PWN)** | Binary exploitation, heap grooming, and kernel pwn. |
 | **📟 Hardware** | Firmware reversing, JTAG/UART, and SDR. |
 | **🌀 Miscellaneous** | Logic puzzles, jail-breaks, and esoteric languages. |
+| **📱 Mobile** | Hacking into android. |
 | **🛰️ OSINT** | Geolocation, social engineering, and public data mining. |
 | **🛠️ Reverse Engineering** | Disassembling ELF/PE binaries and malware analysis. |
 | **🖼️ Steganography** | LSB encoding, metadata analysis, and hidden streams. |
@@ -32,15 +33,6 @@ To maintain the high standard of the **Void-Walkers** logs, please follow these 
    * **Solution:** A detailed walkthrough (think "how" and "why", not just "what").
    * **The Flag:** Encapsulated in code blocks (e.g., `void{fl4g_h3r3}`).
 3. **Exploits:** Include any scripts (`.py`, `.c`, `.sh`) used to solve the challenge.
-
-## 🛠️ Tools of the Trade
-
-We frequently use the following in our operations:
-* **Analysis:** Burp Suite, Wireshark, Ghidra, GDB/Pwndbg.
-* **OSINT:** Google Earth Pro, Yandex Images, Sherlock.
-* **Automation:** Python (Pwntools, Scapy, Requests).
-
----
 
 ## 💬 Connect with Us
 
