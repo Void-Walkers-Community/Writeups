@@ -4,7 +4,7 @@ Welcome to the Void-Walkers Cryptography Vault. This directory serves as our cen
 
 --- 
 
-## 🧪 Submission Standards
+## 📜 Submission Standards
 
 1.  Create a .md within the relevant sub-category (Format: `YYYY-Challengename(Seperate using underscore)-EventName(Seperate using underscore))` .
 2.  Use the [Templates](../TEMPLATES.md) to document your steps, including:
