@@ -1,4 +1,4 @@
-# 🛠️ Reverse Engineering: Binary Deconstruction
+# 📟 Reverse Engineering: Binary Deconstruction
 
 Welcome to the Void-Walkers Assembly Lab. This directory contains our deep dives into compiled binaries, obfuscated scripts, and proprietary protocols. We bridge the gap between machine code and human logic.
 
