@@ -5,9 +5,9 @@ Welcome to the official central repository for **Void-Walkers** CTF writeups. Th
 ## 🗂️ Repository Structure
 Our writeups are categorized by technical domain. Each folder contains challenge descriptions, scripts, and the step-by-step logic used to capture the flag.
 
-| Category | Description |
-| :--- | :--- |
-| **🤖 AI** | Adversarial ML, model inversion, and LLM jailbreaking. |
+| Category | Description | Index Link |
+| :--- | :--- | :--- |
+| **🤖 AI** | Adversarial ML, model inversion, and LLM jailbreaking. | [Index](../AI/INDEX.md) |
 | **⛓️ Blockchain** | Smart contract auditing and DeFi protocol exploits. |
 | **☁️ Cloud Security** | AWS/Azure/GCP misconfigurations and container escapes. |
 | **🔑 Cryptography** | Classic ciphers, RSA/AES attacks, and custom LCGs. |
