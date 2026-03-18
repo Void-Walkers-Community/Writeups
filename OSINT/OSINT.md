@@ -3,7 +3,7 @@
 Welcome to the Void-Walkers Intel Hub. This directory tracks our investigations into public data, geolocation, and digital footprints. Use the links below to navigate through our completed operations and methodologies.
 
 ---
-## 📝 How to Log a New Intel Report
+# 🕵️ Submission Standards
 
 1.  Create a .md within the relevant sub-category (Format: `YYYY-Challengename(Seperate using underscore)-EventName(Seperate using underscore))` .
 2.  Use the `TEMPLATE.md` to document your steps, including:
