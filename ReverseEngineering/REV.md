@@ -2,6 +2,8 @@
 
 Welcome to the Void-Walkers Assembly Lab. This directory contains our deep dives into compiled binaries, obfuscated scripts, and proprietary protocols. We bridge the gap between machine code and human logic.
 
+---
+
 ## 📜 Submission Standards
 
 1.  Create a .md within the relevant sub-category (Format: `YYYY-Challengename(Seperate using underscore)-EventName(Seperate using underscore))` .
