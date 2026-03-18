@@ -8,7 +8,7 @@ Our writeups are categorized by technical domain. Each folder contains challenge
 | Category | Description | Index Link |
 | :--- | :--- | :--- |
 | **🤖 AI** | Adversarial ML, model inversion, and LLM jailbreaking. | [Index](../AI/INDEX.md) |
-| **⛓️ Blockchain** | Smart contract auditing and DeFi protocol exploits. |
+| **⛓️ Blockchain** | Smart contract auditing and DeFi protocol exploits. | [Index](../BlockChain/INDEX.md) |
 | **☁️ Cloud Security** | AWS/Azure/GCP misconfigurations and container escapes. |
 | **🔑 Cryptography** | Classic ciphers, RSA/AES attacks, and custom LCGs. |
 | **🔍 Digital Forensics** | PCAP analysis, memory dumps, and disk artifacts. |
