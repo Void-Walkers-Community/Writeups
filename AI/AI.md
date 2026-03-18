@@ -4,13 +4,14 @@ Welcome to the Void-Walkers Neural Lab. This directory documents our operations 
 
 ---
 
-## 🛰️ Submission Standards
+## 📜 Submission Standards
 
-When logging an AI-based solve, include:
-1.  **The Attack Vector:** (e.g., White-box vs. Black-box attack).
-2.  **The Payload:** The specific prompt or adversarial image used.
-3.  **Success Rate:** Note if the attack was deterministic or required multiple iterations.
-4.  **The Model:** Architecture name (e.g., GPT-4o, Llama-3, ResNet-50) and version if known.
+1.  Create a .md within the relevant sub-category (Format: `YYYY-Challengename(Seperate using underscore)-EventName(Seperate using underscore))` .
+2.  Use the `TEMPLATE.md` to document your steps, including:
+    * **The Initial Lead:** The image or data point provided.
+    * **The Pivot:** How you moved from Point A to Point B.
+    * **The Confirmation:** The final coordinate or flag.
+3.  **Update INDEX file** by adding your new report to the "Operation Index" table above.
 
 > "A model is only as smart as the data it hasn't been taught to fear." 🌌
 
