@@ -7,5 +7,5 @@
 |3| 2026-02 | **EHAX** | Lost Biker | [View Logs](./2026-Lost_Biker-EHAX.md) |
 
 ---
-[🔙 Back to OSINT Directory](../OSINT)
-[🔙 Back to Main Directory](../README.md)
+* [🔙 Back to OSINT Directory](../OSINT)
+* [🔙 Back to Main Directory](../README.md)
