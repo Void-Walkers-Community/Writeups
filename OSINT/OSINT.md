@@ -6,42 +6,13 @@ Welcome to the Void-Walkers Intel Hub. This directory tracks our investigations 
 
 ## 🗺️ Operation Index (Completed Writeups)
 
-| Date | Event / Challenge | Writeup Link |
+| Date | Event / Challenge | Focus Area | Writeup Link |
 | :--- | :--- | :--- | :--- |
-| 2026-03 | **0xFUN CTF** | Metadata & Identity |(./0xFUN-2026/Metadata-Hunt.md) |
-| 2026-02 | **Geospatial Recon** | Railway Markers (India) |(./Geospatial/Railway-Intel.md) |
-| 2026-02 | **Urban Navigation** | Latvia/Germany Street View |(./Geospatial/EU-Street-ID.md) |
-| 2026-01 | **Digital Footprint** | Social Media Pivot |(./Social/Target-A.md) |
-| 2025-12 | **Virtual Worlds** | Minecraft/GTA V Coordinates | (./Gaming/Virtual-Mapping.md) |
-
----
-
-## 📂 Categories of Investigation
-
-### 📍 Geolocation & IMINT
-*Mapping physical locations through visual cues, weather, and landmarks.*
-* [Railway & Infrastructure Markers](./Geospatial/README.md)
-* [Satellite Imagery Analysis](./Geospatial/Satellite.md)
-
-### 👤 Identity & SOCMINT
-*Tracking targets across social networks and professional platforms.*
-* [Email & Username Pivoting](./Social/Pivoting-Guides.md)
-* [Breach Data Investigation](./Social/Leaks.md)
-
-### 💻 Technical OSINT
-*Interrogating the digital infrastructure.*
-* [DNS & WHOIS Recon](./Technical/Domain-Intel.md)
-* [Metadata (Exif) Extraction](./Technical/Metadata.md)
-
----
-
-## 🛠️ Void-Walker Recon Toolkit
-
-Our team utilizes the following "Standard Issue" tools for these investigations:
-
-* **Mapping:** Google Earth Pro, Yandex Maps, PeakVisor.
-* **Searching:** Sherlock, Holehe, IntelX.
-* **Verification:** FotoForensics, SunCalc (for shadow analysis).
+| 2026-03 | **0xFUN CTF** | Metadata & Identity | [View Logs](./0xFUN-2026/Metadata-Hunt.md) |
+| 2026-02 | **Geospatial Recon** | Railway Markers (India) | [View Logs](./Geospatial/Railway-Intel.md) |
+| 2026-02 | **Urban Navigation** | Latvia/Germany Street View | [View Logs](./Geospatial/EU-Street-ID.md) |
+| 2026-01 | **Digital Footprint** | Social Media Pivot | [View Logs](./Social/Target-A.md) |
+| 2025-12 | **Virtual Worlds** | Minecraft/GTA V Coordinates | [View Logs](./Gaming/Virtual-Mapping.md) |
 
 ---
 
