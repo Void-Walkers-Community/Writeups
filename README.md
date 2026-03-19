@@ -14,6 +14,7 @@ Our writeups are categorized by technical domain. Each folder contains challenge
 | **🔍 Digital Forensics** | PCAP analysis, memory dumps, and disk artifacts. | [Index](DigitalForensics/INDEX.md) |
 | **💥 Exploitation (PWN)** | Binary exploitation, heap grooming, and kernel pwn. | [Index](Exploitation(PWN)/INDEX.md) |
 | **📟 Hardware** | Firmware reversing, JTAG/UART, and SDR. | [Index](Hardware/INDEX.md) |
+| **🧩 General Skills** | General day to day skills. | [Index](GeneralSkills/INDEX.md) |
 | **🌀 Miscellaneous** | Logic puzzles, jail-breaks, and esoteric languages. | [Index](Miscellaneous/INDEX.md) |
 | **📱 Mobile** | Hacking into android. | [Index](Mobile/INDEX.md) |
 | **🛰️ OSINT** | Geolocation, social engineering, and public data mining. | [Index](OSINT/INDEX.md) |
