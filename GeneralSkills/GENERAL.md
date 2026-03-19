@@ -1,5 +1,5 @@
 # :jigsaw: General Skills: The Operative's Foundation
--
+
 Welcome to the Void-Walkers Training Grounds. This directory tracks the essential non-category-specific skills required to operate at a high level. We focus on automation, environment stability, and the methodology of a professional security researcher
 ---
 
