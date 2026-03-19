@@ -4,6 +4,6 @@
 | :--- | :--- | :--- | :--- | :--- | :---|
 
 ---
-* [🔙 Back to General Skill Directory](GeneralSkills)
+* [🔙 Back to General Skill Directory](../GeneralSkills)
 * [🔙 Back to Main Directory](../README.md)
 
