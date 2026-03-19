@@ -14,5 +14,5 @@ You can find the detailed technical walkthrough for this challenge on our Medium
 
 ## 🗂️ Navigation
 * [🔙 Back to Rev Directory](../ReverseEngineering)
-* [🔙 Back to Rev Index Directory](../INDEX.md)
+* [🔙 Back to Rev Index Directory](ReverseEngineering/INDEX.md)
 * [🔙 Back to Main Directory](../../README.md)
