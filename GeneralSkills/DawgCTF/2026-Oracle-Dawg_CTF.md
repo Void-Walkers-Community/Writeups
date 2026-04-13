@@ -83,6 +83,6 @@ print(flag_msg)
 Alice acts as a chosen-ciphertext re-encryption oracle: anything validly encrypted to Alice can be transformed into something decryptable by us, because Alice re-encrypts plaintext to our supplied public key.
 
 
-* [🔙 Back to GeneralSkills Directory](../GeneralSkills)
-* [🔙 Back to General Skills Index Directory](../GeneralSkills/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+* [🔙 Back to General Skills Directory](../)
+* [🔙 Back to General Skills Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
