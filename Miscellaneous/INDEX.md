@@ -2,6 +2,18 @@
 
 |Sl. No| Date | Event | Challenge | Writeup Link | Author |
 | :--- | :--- | :--- | :--- | :--- | :---|
+|1| 2026-04-10 | **Dawg CTF** | An Italian Penguin | [View Logs](./DawgCTF/2026-An_Italian_Penguin-Dawg_CTF.md) | []((https://github.com/) |
+|2| 2026-04-10 | **Dawg CTF** | Discord Challenge | [View Logs](./DawgCTF/2026-Discord_Challenge-Dawg_CTF.md) | []((https://github.com/) |
+|3| 2026-04-10 | **Dawg CTF** | Frequency 3000 | [View Logs](./DawgCTF/2026-Frequency_3000-Dawg_CTF.md) | []((https://github.com/) |
+|4| 2026-04-10 | **Dawg CTF** | HAZMAT 1 | [View Logs](./DawgCTF/2026-HAZMAT_1-Dawg_CTF.md) | []((https://github.com/) |
+|5| 2026-04-10 | **Dawg CTF** | HAZMAT 2 | [View Logs](./DawgCTF/2026-HAZMAT_2-Dawg_CTF.md) | []((https://github.com/) |
+|6| 2026-04-10 | **Dawg CTF** | HAXMAT 3 | [View Logs](./DawgCTF/2026-HAZMAT_3-Dawg_CTF.md) | []((https://github.com/) |
+|7| 2026-04-10 | **Dawg CTF** | Hidding in a plain sight | [View Logs](./DawgCTF/2026-Hidding_in_a_plain_Sight-Dawg_CTF.md) | []((https://github.com/) |
+|8| 2026-04-10 | **Dawg CTF** | Hidding in a plain sight 2 | [View Logs](./DawgCTF/2026-Hidding_in_a_plain_Sight_2-Dawg_CTF.md) | []((https://github.com/) |
+|9| 2026-04-10 | **Dawg CTF** | Mr. Worldwide | [View Logs](./DawgCTF/2026-Mr.WorldWide-Dawg_CTF.md) | []((https://github.com/) |
+|10| 2026-04-10 | **Dawg CTF** | Through the looking bit | [View Logs](./DawgCTF/2026-Through_the_looking_bit-Dawg_CTF.md) | []((https://github.com/) |
+|11| 2026-04-10 | **Dawg CTF** | Zap 2 | [View Logs](./DawgCTF/2026-ZAP_2-Dawg_CTF.md) | []((https://github.com/) |
+|12| 2026-04-10 | **Dawg CTF** | crazy? i was crazy when they locked me in a  | [View Logs](./DawgCTF/2026-crazy?_i_was_crazy_when_they_lock_me_up-Dawg_CTF.md) | []((https://github.com/) |
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
