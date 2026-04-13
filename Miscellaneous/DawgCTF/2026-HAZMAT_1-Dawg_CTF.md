@@ -10,6 +10,6 @@ you can also search for this sign and it will say compressed hydrogen (1049)
 
 
 ---
-* [🔙 Back to Miscallaneous Directory](../Miscellaneous)
-* [🔙 Back to Miscellaneous Index Directory](../Miscellaneous/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+* [🔙 Back to Miscallaneous Directory](../)
+* [🔙 Back to Miscellaneous Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
