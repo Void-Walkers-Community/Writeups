@@ -10,7 +10,6 @@ You can find the detailed technical walkthrough for this challenge on our Medium
 ### [Read the Full Writeup Here](https://medium.com/@soumyajitdattastar/ehax-ctf-2026-lost-biker-b49e2fbc2786)
 
 ---
-
-* [🔙 Back to OSINT Directory](../OSINT)
-* [🔙 Back to OSINT Index Directory](../OSINT/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+* [🔙 Back to OSINT Directory](../)
+* [🔙 Back to OSINT Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
