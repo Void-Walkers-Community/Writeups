@@ -11,5 +11,5 @@ You can find the detailed technical walkthrough for this challenge on our Medium
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
-* [🔙 Back to Crypto Index Directory](../INDEX.md)
+* [🔙 Back to Crypto Index Directory](../Cryptography/INDEX.md)
 * [🔙 Back to Main Directory](../README.md)
