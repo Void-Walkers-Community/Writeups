@@ -9,9 +9,10 @@ You can find the detailed technical walkthrough for this challenge on our Medium
 
 ### [Read the Full Writeup Here](https://medium.com/@varund0705/darkctf-cracking-the-c3-ctf-challenge-4ee5ddcff9fd)
 
----
 
-## 🗂️ Navigation
-* [🔙 Back to Reverse Engineering Directory](../ReverseEngineering)
-* [🔙 Back to Rev Index Directory](../ReverseEngineering/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+---
+* [🔙 Back to Reverse Engineering Directory](../)
+* [🔙 Back to Rev Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
+
+
