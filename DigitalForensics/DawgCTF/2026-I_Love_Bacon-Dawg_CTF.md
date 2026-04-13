@@ -87,7 +87,6 @@ DawgCTF{s1zzlin_succul3nt_c2_b4con}
 DawgCTF{s1zzlin_succul3nt_c2_b4con}
 ```
 
-
-* [🔙 Back to Digital Forensics Directory](../DigitalForensics)
-* [🔙 Back to Digital Forensics Index Directory](../DigitalForensics/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+* [🔙 Back to Digital Forensics Directory](../)
+* [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
