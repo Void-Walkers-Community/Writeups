@@ -54,6 +54,9 @@ Challenges 1 through 5 all fail because the protocol scripts trust message conte
 The common lesson is that cryptography alone does not make a protocol secure. The protocol must also authenticate who is speaking and bind identities to the right keys.
 
 
-* [🔙 Back to GeneralSkills Directory](../GeneralSkills)
-* [🔙 Back to General Skills Index Directory](../GeneralSkills/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+---
+
+* [🔙 Back to General Skills Directory](../)
+* [🔙 Back to General Skills Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
+
