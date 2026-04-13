@@ -62,6 +62,7 @@ Those were incorrect for this challenge.
 - NGK/Locke suspension insulator catalog tables
 - Border States NGK-Locke suspension product family listing
 
-* [🔙 Back to Miscallaneous Directory](../Miscellaneous)
-* [🔙 Back to Miscellaneous Index Directory](../Miscellaneous/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+---
+* [🔙 Back to Miscallaneous Directory](../)
+* [🔙 Back to Miscellaneous Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
