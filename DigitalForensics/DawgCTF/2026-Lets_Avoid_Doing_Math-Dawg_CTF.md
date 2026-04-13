@@ -106,6 +106,6 @@ Metrics:
 DawgCTF[0.95,0.05,0.05,0.85,0.1,0.25,0.85,0.1125,0.225]
 ```
 
-* [🔙 Back to Digital Forensics Directory](../DigitalForensics)
-* [🔙 Back to Digital Forensics Index Directory](../DigitalForensics/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+* [🔙 Back to Digital Forensics Directory](../)
+* [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
