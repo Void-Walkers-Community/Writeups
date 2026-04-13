@@ -16,8 +16,8 @@
 |12| 2026-04-10 | **Dawg CTF** | Plane Spotting 1 | [View Logs](./DawgCTF/2026-Plane_Spotting_1-Dawg_CTF.md) | []((https://github.com/) |
 |13| 2026-04-10 | **Dawg CTF** | Plane Spotting 2 | [View Logs](./DawgCTF/2026-Plane_Spotting_2-Dawg_CTF.md) | []((https://github.com/) |
 |14| 2026-04-10 | **Dawg CTF** | Plane Spotting 3 | [View Logs](./DawgCTF/2026-Plane_Spotting_3-Dawg_CTF.md) | []((https://github.com/) |
-|15| 2026-04-10 | **Dawg CTF** | Temple of Doom | [View Logs](./DawgCTF/2026-Plane_Spotting_-Dawg_CTF.md) | []((https://github.com/) |
-|16| 2026-04-10 | **Dawg CTF** | owo? | [View Logs](./DawgCTF/2026-owo?-Dawg_CTF.md) | []((https://github.com/) |
+|15| 2026-04-10 | **Dawg CTF** | Temple of Doom | [View Logs](./DawgCTF/2026-Temple_of_Doom-Dawg_CTF.md) | []((https://github.com/) |
+|16| 2026-04-10 | **Dawg CTF** | owo? | [View Logs](./DawgCTF/2026-owo-Dawg_CTF.md) | []((https://github.com/) |
 |17| 2026-04-10 | **Dawg CTF** | Дмитрий шесть | [View Logs](./DawgCTF/2026-Дмитрий_шесть-Dawg_CTF.md) | []((https://github.com/) |
 
 
