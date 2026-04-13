@@ -66,6 +66,6 @@ find_zip_code("gateway.png")
 Then it will give the output - 15533
 
 
-* [🔙 Back to OSINT Directory](../Miscellaneous)
-* [🔙 Back to OSINT Index Directory](../Miscellaneous/INDEX.md)
+* [🔙 Back to OSINT Directory](../OSINT)
+* [🔙 Back to OSINT Index Directory](../OSINT/INDEX.md)
 * [🔙 Back to Main Directory](../README.md)
