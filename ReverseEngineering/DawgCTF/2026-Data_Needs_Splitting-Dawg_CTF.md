@@ -181,6 +181,9 @@ DawgCTF{J@v@_My_B3l0v3d}
 
 `DawgCTF{J@v@_My_B3l0v3d}`
 
-* [🔙 Back to Reverse Engineering Directory](../ReverseEngineering)
-* [🔙 Back to Rev Index Directory](../ReverseEngineering/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+
+---
+* [🔙 Back to Reverse Engineering Directory](../)
+* [🔙 Back to Rev Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
+
