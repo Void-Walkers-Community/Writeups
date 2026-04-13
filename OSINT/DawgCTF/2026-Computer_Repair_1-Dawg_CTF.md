@@ -4,6 +4,8 @@ Checking for both ram and storage and putting in the details will get us the fla
 Last part was the product number
 DawgCTF{16GB_2667MHZ_256GB_35PK2}
 
-* [🔙 Back to OSINT Directory](../OSINT)
-* [🔙 Back to OSINT Index Directory](../OSINT/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+---
+* [🔙 Back to OSINT Directory](../)
+* [🔙 Back to OSINT Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
+
