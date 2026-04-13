@@ -64,6 +64,8 @@ print(flag_msg)
 
 ## Flag
 `DawgCTF{4SK_4ND_U_SH4LL_R3C31V3}`
-* [🔙 Back to GeneralSkills Directory](../GeneralSkills)
-* [🔙 Back to General Skills Index Directory](../GeneralSkills/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+
+---
+* [🔙 Back to General Skills Directory](../)
+* [🔙 Back to General Skills Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
