@@ -36,9 +36,8 @@ WHYN0TZO!DB3RG? reads as “Why not Zoidberg?” – famous Futurama line.
 
 
 ---
-* [🔙 Back to Miscallaneous Directory](../Miscellaneous)
-* [🔙 Back to Miscellaneous Index Directory](../Miscellaneous/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
-
+* [🔙 Back to Miscallaneous Directory](../)
+* [🔙 Back to Miscellaneous Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
 
 Final flag: DawgCTF{WHYN0TZO!DB3RG?}
