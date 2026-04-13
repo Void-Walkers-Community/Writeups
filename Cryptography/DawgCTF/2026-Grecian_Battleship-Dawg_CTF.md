@@ -150,6 +150,6 @@ Output:
 DawgCTF{POMAGRUNET}
 ```
 
-* [🔙 Back to Cryptography Directory](../Cryptography)
-* [🔙 Back to Cryptography Index Directory](../Cryptography/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
