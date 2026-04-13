@@ -160,6 +160,10 @@ This challenge is a nice example of:
 
 The key hint was that the game itself says cheating is required.
 
-* [🔙 Back to Reverse Engineering Directory](../ReverseEngineering)
-* [🔙 Back to Rev Index Directory](../ReverseEngineering/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+
+---
+* [🔙 Back to Reverse Engineering Directory](../)
+* [🔙 Back to Rev Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
+
+
