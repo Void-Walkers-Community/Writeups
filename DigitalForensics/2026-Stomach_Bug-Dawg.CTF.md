@@ -169,3 +169,7 @@ The important observations were:
 - the recovered file was a PNG containing nested QR-based stages until the flag was reached
 
 It was a nice challenge because the transport format itself was the puzzle, rather than traditional exploitation.
+
+* [🔙 Back to Digital Forensics Directory](../DigitalForensics)
+* [🔙 Back to Digital Forensics Index Directory](../DigitalForensics/INDEX.md)
+* [🔙 Back to Main Directory](../README.md)
