@@ -17,7 +17,7 @@
 |13| 2026-04-10 | **Dawg CTF** | Plane Spotting 2 | [View Logs](./DawgCTF/2026-Plane_Spotting_2-Dawg_CTF.md) | [Karam](https://github.com/path0xu)|
 |14| 2026-04-10 | **Dawg CTF** | Plane Spotting 3 | [View Logs](./DawgCTF/2026-Plane_Spotting_3-Dawg_CTF.md) | [Rei](https://github.com/elliottophellia) |
 |15| 2026-04-10 | **Dawg CTF** | Temple of Doom | [View Logs](./DawgCTF/2026-Temple_of_Doom-Dawg_CTF.md) | [Zero Glitch](https://github.com/Sadrita404) |
-|16| 2026-04-10 | **Dawg CTF** | owo? | [View Logs](./DawgCTF/2026-owo-Dawg_CTF.md) | [Rei]((https://github.com/elliottophellia) |
+|16| 2026-04-10 | **Dawg CTF** | owo? | [View Logs](./DawgCTF/2026-owo-Dawg_CTF.md) | [Rei](https://github.com/elliottophellia) |
 |17| 2026-04-10 | **Dawg CTF** | Дмитрий шесть | [View Logs](./DawgCTF/2026-Дмитрий_шесть-Dawg_CTF.md) | [Zero Glitch](https://github.com/Sadrita404) |
 
 
