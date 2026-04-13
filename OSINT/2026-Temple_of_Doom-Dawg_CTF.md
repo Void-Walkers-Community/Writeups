@@ -40,6 +40,8 @@ https://en.wikipedia.org/wiki/Chet_Holifield_Federal_Building
 From this article in the Wikipedia, I found out that the nickname of
 this building was - The Ziggurat Building
 
-* [🔙 Back to OSINT Directory](../Miscellaneous)
-* [🔙 Back to OSINT Index Directory](../Miscellaneous/INDEX.md)
+* [🔙 Back to OSINT Directory](../OSINT)
+* [🔙 Back to OSINT Index Directory](../OSINT/INDEX.md)
 * [🔙 Back to Main Directory](../README.md)
+
+
