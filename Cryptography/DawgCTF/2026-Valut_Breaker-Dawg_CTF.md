@@ -38,9 +38,6 @@ So the plaintext matches perfectly.
 Answer
 EXTREMELYLONGPASSWORD
 ```
-
-* [🔙 Back to Crypto Directory](../Cryptography)
-* [🔙 Back to Crypto Index Directory](../Cryptography/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
-
-```
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
