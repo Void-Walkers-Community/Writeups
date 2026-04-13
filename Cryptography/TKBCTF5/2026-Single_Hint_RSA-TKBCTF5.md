@@ -10,6 +10,6 @@ You can find the detailed technical walkthrough for this challenge on our Medium
 ### [Read the Full Writeup Here](https://medium.com/@soumyajitdattastar/tkbctf5-single-hint-rsa-d692512159c8)
 
 ---
-* [🔙 Back to Crypto Directory](../Cryptography)
-* [🔙 Back to Crypto Index Directory](../Cryptography/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
