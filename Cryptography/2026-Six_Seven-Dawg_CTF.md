@@ -142,5 +142,5 @@ The title **Six Seven** is a hint toward the repeated use of `6` and `7` inside 
 
 
 * [🔙 Back to Crypto Directory](../Cryptography)
-* [🔙 Back to Crypto Index Directory](../INDEX.md)
+* [🔙 Back to Crypto Index Directory](../Cryptography/INDEX.md)
 * [🔙 Back to Main Directory](../README.md)
