@@ -141,6 +141,6 @@ This challenge demonstrates why custom stream ciphers are dangerous:
 The title **Six Seven** is a hint toward the repeated use of `6` and `7` inside the `gen()` function. # haha six seven very funny
 
 
-* [🔙 Back to Crypto Directory](../Cryptography)
-* [🔙 Back to Crypto Index Directory](../Cryptography/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
