@@ -13,6 +13,6 @@ DawgCTF{Barack_Obama}
 ```
 
 ---
-* [🔙 Back to OSINT Directory](../Miscellaneous)
-* [🔙 Back to OSINT Index Directory](../Miscellaneous/INDEX.md)
+* [🔙 Back to Miscallaneous Directory](../Miscellaneous)
+* [🔙 Back to Miscellaneous Index Directory](../Miscellaneous/INDEX.md)
 * [🔙 Back to Main Directory](../README.md)
