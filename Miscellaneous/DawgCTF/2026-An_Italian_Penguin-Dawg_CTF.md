@@ -1,4 +1,4 @@
-<img width="659" height="313" alt="image" src="https://github.com/user-attachments/assets/10bfba43-ef1e-4aa8-a800-911fd2c0c701" /># Penguin_Steg Writeup
+# Penguin_Steg Writeup
 
 ## Challenge Summary
 
