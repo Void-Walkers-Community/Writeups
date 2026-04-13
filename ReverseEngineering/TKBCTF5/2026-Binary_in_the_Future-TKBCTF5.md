@@ -11,6 +11,7 @@ You can find the detailed technical walkthrough for this challenge on our Medium
 ### [Read the Full Writeup Here](https://medium.com/@abhaspaul86/binary-in-the-future-tkbctf-2026-writeup-d767a7e700df)
 
 ---
-* [🔙 Back to Reverse Engineering Directory](../ReverseEngineering)
-* [🔙 Back to Rev Index Directory](../ReverseEngineering/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+* [🔙 Back to Reverse Engineering Directory](../)
+* [🔙 Back to Rev Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
+
