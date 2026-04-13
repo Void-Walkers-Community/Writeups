@@ -1,4 +1,4 @@
-# Penguin_Steg Writeup
+<img width="659" height="313" alt="image" src="https://github.com/user-attachments/assets/10bfba43-ef1e-4aa8-a800-911fd2c0c701" /># Penguin_Steg Writeup
 
 ## Challenge Summary
 
@@ -71,6 +71,8 @@ DawgCTF{UmActu@LlYIT$GnUL!nUX}
 DawgCTF{UmActu@LlYIT$GnUL!nUX}
 ```
 ---
-* [🔙 Back to Miscallaneous Directory](../Miscellaneous)
-* [🔙 Back to Miscellaneous Index Directory](../Miscellaneous/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+* [🔙 Back to Miscallaneous Directory](../)
+* [🔙 Back to Miscellaneous Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
+
+
