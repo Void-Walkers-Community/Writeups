@@ -9,6 +9,7 @@
 |5| 2026-04-10 | **Dawg CTF** | Data Needs Splitting | [View Logs](./DawgCTF/2026-Data_Needs_Splitting-Dawg_CTF.md) | [Karam](https://github.com/parth0xu) |
 |6| 2026-04-10 | **Dawg CTF** | Dust To Dust | [View Logs](./DawgCTF/2026-Dust_to_Dust-Dawg_CTF.md) | [Mein](https://github.com/meinsoft) |
 |7| 2026-04-10 | **Dawg CTF** | Machine Learnding | [View Logs](./DawgCTF/2026-Machine_Learnding-Dawg_CTF.md) | [Rei](https://github.com/elliottophellia) |
+|8| 2026-03-28 | **TexSAW CTF** | Switcheroo | [View Logs](./TexSAW26/2026-Switcheroo-TexSAWCTF.md) | [White Death 16](https://github.com/Ayush-Parab) |
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
