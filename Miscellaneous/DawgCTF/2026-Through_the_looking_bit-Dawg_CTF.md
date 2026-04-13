@@ -11,6 +11,7 @@ it just gave some giberish text, so I re read the chall description and then it 
 
 then I converted everything to decimal and from decimal to ascii and then got the flag ::D
 
-* [🔙 Back to Miscallaneous Directory](../Miscellaneous)
-* [🔙 Back to Miscellaneous Index Directory](../Miscellaneous/INDEX.md)
-* [🔙 Back to Main Directory](../README.md)
+---
+* [🔙 Back to Miscallaneous Directory](../)
+* [🔙 Back to Miscellaneous Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
