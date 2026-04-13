@@ -1,4 +1,4 @@
-# Hidden In Plain Sight Writeup –
+# Hidding In Plain Sight Writeup –
 
 I got a image, and was asked to find the name of the person of object I found.
 
