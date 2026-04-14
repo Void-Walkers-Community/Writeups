@@ -11,7 +11,7 @@
 |7| 2026-04-10 | **Dawg CTF** | Machine Learnding | [View Logs](./DawgCTF/2026-Machine_Learnding-Dawg_CTF.md) | [Rei](https://github.com/elliottophellia) |
 |8| 2026-03-28 | **TexSAW CTF** | Switcheroo | [View Logs](./TexSAW26/2026-Switcheroo-TexSAWCTF.md) | [White Death 16](https://github.com/Ayush-Parab) |
 |9| 2026-04-10 | **UMass** | Batcave Bitflips | [View Logs](./UMass/2026-Batcave_Bitflips-UMass26.md) | [0xZ1R0](https://github.com/0xZ1R0) |
-|10| 2026-04-10 | **UMass** | Lego Clicker | [View Logs](./UMass/2026-Lego_Clicker-UMass26.md) | [Karam](https://github.com/path0xu)|
+|10| 2026-04-10 | **UMass** | Lego Clicker | [View Logs](./UMass/2026-Lego_Clicker-UMass26.md) | [Karam](https://github.com/path0xu) |
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
