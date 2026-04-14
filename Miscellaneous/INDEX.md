@@ -14,6 +14,11 @@
 |10| 2026-04-10 | **Dawg CTF** | Through the looking bit | [View Logs](./DawgCTF/2026-Through_the_looking_bit-Dawg_CTF.md) | [0xZ1R0](https://github.com/0xZ1R0) |
 |11| 2026-04-10 | **Dawg CTF** | Zap 2 | [View Logs](./DawgCTF/2026-ZAP_2-Dawg_CTF.md) | [Karam](https://github.com/path0xu) |
 |12| 2026-04-10 | **Dawg CTF** | crazy? i was crazy when they locked me in a  | [View Logs](./DawgCTF/2026-crazy?_i_was_crazy_when_they_lock_me_in_a-Dawg_CTF.md) | [Karam](https://github.com/path0xu) |
+|13| 2026-04-10 | **UMass** | Deep Down | [View Logs](./UMass/2026-Deep_Down-UMass26.md) | [Kursad](https://github.com/kursad1337) | |
+|14| 2026-04-10 | **UMass** | Knex | [View Logs](./UMass/2026-Knex-UMass26.md) | [[Kursad](https://github.com/kursad1337) | |
+|15| 2026-04-10 | **UMass** | Take a slice | [View Logs](./UMass/2026-Take_a_Slice-UMass26.md) | [Kursad](https://github.com/kursad1337) | |
+
+
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
