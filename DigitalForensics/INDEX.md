@@ -9,6 +9,11 @@
 |5| 2026-04-10 | **Dawg CTF** | Stomach Bug | [View Logs](./DawgCTF/2026-Stomach_Bug-Dawg_CTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |6| 2026-04-10 | **Dawg CTF** | TeleLeak | [View Logs](./DawgCTF/2026-Teleleak-Dawg_CTF.md) | [Mein](https://github.com/meinsoft) |
 |7| 2026-04-10 | **Dawg CTF** | The Step after the Pcap | [View Logs](./DawgCTF/2026-The_Step_after_The_Pcap-Dawg_CTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
+|8| 2026-04-10 | **UMass** | Click Here For Free Bricks | [View Logs](./UMass/2026-Click_Here_For_Free_Bricks-UMass26.md) | [0xZ1R0](https://github.com/0xZ1R0) |
+|9| 2026-04-10 | **UMass** | Lost & Found | [View Logs](./UMass/2026-Lost_And_Found-UMass26.md) | [Karam](https://github.com/path0xu) |
+|10| 2026-04-10 | **UMass** | Ninja Nerds | [View Logs](./UMass/2026-Ninja_Nerds-UMass26.md) | [Kursad](https://github.com/kursad1337) | |
+
+
 ---
 * [🔙 Back to Forensics Directory](../DigitalForensics)
 * [🔙 Back to Main Directory](../README.md)
