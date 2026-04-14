@@ -22,7 +22,7 @@
 |18| 2026-04-10 | **UMass** | Funny Business | [View Logs](./UMass/2026-Funny_Business-UMass26.md) | [Kursad](https://github.com/kursad1337) |
 |19| 2026-04-10 | **UMass** | High Performance | [View Logs](./UMass/2026-High_Performance-UMass26.md) | [Kursad](https://github.com/kursad1337) |
 |20| 2026-04-10 | **UMass** | Son of a Sith | [View Logs](./UMass/2026-Son_of_a_Sith-UMass26.md) | [Kursad](https://github.com/kursad1337) |
-|21| 2026-04-10 | **UMass** | We Have 图寻 at Home | [View Logs](./UMass/2026-We_Have_图寻_at_Home-UMass26.md) | Nova0x |
+|21| 2026-04-10 | **UMass** | We Have 图寻 at Home | [View Logs](./UMass/2026-We_Have_image_search_at_Home-UMass26.md) | Nova0x |
 
 
 
