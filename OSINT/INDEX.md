@@ -19,6 +19,10 @@
 |15| 2026-04-10 | **Dawg CTF** | Temple of Doom | [View Logs](./DawgCTF/2026-Temple_of_Doom-Dawg_CTF.md) | [Zero Glitch](https://github.com/Sadrita404) |
 |16| 2026-04-10 | **Dawg CTF** | owo? | [View Logs](./DawgCTF/2026-owo-Dawg_CTF.md) | [Rei](https://github.com/elliottophellia) |
 |17| 2026-04-10 | **Dawg CTF** | Дмитрий шесть | [View Logs](./DawgCTF/2026-Дмитрий_шесть-Dawg_CTF.md) | [Zero Glitch](https://github.com/Sadrita404) |
+|18| 2026-04-10 | **UMass** | Funny Business | [View Logs](./UMass/2026-Funny_Business-UMass26.md) | [Kursad](https://github.com/kursad1337) |
+|19| 2026-04-10 | **UMass** | High Performance | [View Logs](./UMass/2026-High_Performance-UMass26.md) | [Kursad](https://github.com/kursad1337) |
+|20| 2026-04-10 | **UMass** | Son of a Sith | [View Logs](./UMass/2026-Son_of_a_Sith-UMass26.md) | [Kursad](https://github.com/kursad1337) |
+|21| 2026-04-10 | **UMass** | We Have 图寻 at Home | [View Logs](./UMass/2026-We_Have_图寻_at_Home-UMass26.md) | Nova0x |
 
 
 
