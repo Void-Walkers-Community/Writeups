@@ -134,7 +134,7 @@ DawgCTF{qu33n_0f_th3_h1v3}
 ## Final Answer
 
 `DawgCTF{qu33n_0f_th3_h1v3}`
-
+---
 * [🔙 Back to Digital Forensics Directory](../)
 * [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
 * [🔙 Back to Main Directory](../../README.md)
