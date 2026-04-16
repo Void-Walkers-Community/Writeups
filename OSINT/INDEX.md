@@ -23,7 +23,8 @@
 |19| 2026-04-10 | **UMass** | High Performance | [View Logs](./UMass/2026-High_Performance-UMass26.md) | [Kursad](https://github.com/kursad1337) |
 |20| 2026-04-10 | **UMass** | Son of a Sith | [View Logs](./UMass/2026-Son_of_a_Sith-UMass26.md) | [Kursad](https://github.com/kursad1337) |
 |21| 2026-04-10 | **UMass** | We Have 图寻 at Home | [View Logs](./UMass/2026-We_Have_image_search_at_Home-UMass26.md) | Nova0x |
-
+|22| 2026-04-15 | **Incognito 7.0** | Astley Offset | [View Logs](./INCOGNITO7/2026-Astley_Offset-Incognito7.md) | [Saber](https://github.com/BO-Saber) |
+|23| 2026-04-15 | **Incognito 7.0** | Musk_e_teers | [View Logs](./BITSCTF26/2026-Musk_e_teers-Incognito7.md) | [Saber](https://github.com/BO-Saber) |
 
 
 ---
