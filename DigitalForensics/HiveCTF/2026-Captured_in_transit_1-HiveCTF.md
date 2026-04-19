@@ -156,3 +156,10 @@ This challenge demonstrates a classic network-forensics workflow:
 - Use Wireshark’s **Export Objects** feature.
 - Recognize common file signatures such as PNG magic bytes.
 - Reconstruct files from captured network traffic.
+
+---
+* [🔙 Back to Digital Forensics Directory](../)
+* [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
+
+
