@@ -16,6 +16,9 @@
 |15| 2026-04-17 | **Blue Hen CTF** | Eggs Over Easy | [View Logs](./BlueHen/2026-Eggs_Over_Easy-BlueHen.md) | Tom4Hawk |
 |15| 2026-04-17 | **Blue Hen CTF** | Hell is Haard | [View Logs](./BlueHen/2026-Hell_is_Haard-BlueHen.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
 |15| 2026-04-17 | **Blue Hen CTF** | XORDECRYPT | [View Logs](./BlueHen/2026-XORDECRYPT-BlueHen.md) | Tom4Hawk |
+|16| 2026-04-17 | **Squ1rrel** | flat earth 2 | [View Logs](./Squ1rrel/2026-flat_earth_2-squ1rrel.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
+|17| 2026-04-17 | **Squ1rrel** | discord | [View Logs](./Squ1rrel/2026-rsa-squ1rrel.md) | [Saber](https://github.com/BO-Saber) |
+
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
