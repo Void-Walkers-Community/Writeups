@@ -6,3 +6,7 @@ iodj{vdwhoolwh_vljqdo_ghfrghg}
 Okay, so something is there. The curly braces {} are a dead giveaway that the flag structure is intact, just shifted. That's a Caesar cipher. Brute-forced all 25 shifts and shift 3 gave a clean readable result:
 jctf{satellite_signal_decoded}
 
+---
+* [🔙 Back to Digital Forensics Directory](../)
+* [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
