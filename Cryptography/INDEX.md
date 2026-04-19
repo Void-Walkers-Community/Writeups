@@ -12,7 +12,7 @@
 |8| 2026-04-10 | **UMass** | Hens and Rooster | [View Logs](./UMass/2026-Hens_and_Rooster-UMass26.md) | [Karam](https://github.com/path0xu) |
 |9| 2026-04-18 | **Hive CTF** | Do you know da plaintext | [View Logs](./HiveCTF/2026-Do_you_know_da_plaintext-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
 |10| 2026-04-18 | **Hive CTF** | One Time Pad | [View Logs](./HiveCTF/2026-One_time_pad-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
-
+|11| 2026-04-18 | **Hive CTF** | Transport Trouble | [View Logs](./HiveCTF/2026-Transport_Trouble-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
