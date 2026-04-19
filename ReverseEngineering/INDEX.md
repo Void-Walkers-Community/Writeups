@@ -18,7 +18,7 @@
 |14| 2026-04-18 | **Hive CTF** | Opcode Oracle | [View Logs](./HiveCTF/2026-Opcode_Oracle-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
 |15| 2026-04-18 | **Hive CTF** | Stubbed | [View Logs](./HiveCTF/2026-Stubbed-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
 |16| 2026-04-18 | **Hive CTF** | Hives Secret | [View Logs](./HiveCTF/2026-The_hives_secret-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
-
+|17| 2026-04-17 | **Blue Hen CTF** | A Logical Deduction | [View Logs](./BlueHen/2026-A_Logical_Deduction-BlueHen.md) | Tom4Hawk |
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
