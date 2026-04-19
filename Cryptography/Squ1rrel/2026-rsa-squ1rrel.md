@@ -1,0 +1,205 @@
+## Writeup – RSA (Fermat Factorization)
+
+We’re given:
+
+* RSA ciphertext:
+
+```text
+aOCmih7+sJ6kVC5cvdytyi1OILZnUMU3tC1IfXJpvPMtMMESjppgeHm4ync7orf/Gm9LDeGeWFttxlmWMWLYbiz258fbVzvoSCj92+2kWKY8UN8yYcKPo7IoC/NmZX4dRgZ9NBopkf794ylGJgIIamzUR2Sauinul5YSJKAt0s6w3OOD40mmJDhRn5D0KuYiPHZDQ33xakTfbstxcTpB3jtA01Rt6iXydiXotarTjjplrdc3359bHGyLvzRtHPlExAYSdJfc63WAC4vFbmg+/x24E969ItexAo2JK1oztz8tUHmrDxsBu/07SXFx2PYbDkGPzJBkYKT/2ThntFEfTA==
+```
+
+* RSA modulus:
+
+```text
+n =
+18271752466870180127745800868708214630162281586246824926034232332196351776561071950037425807823961949825871587999632822002545598857069391130795394202584764494207030362917447457268736832607015087954459047881817775038313528023934958504556651502169601424341939024000029258765144167071321184423165780495670199483967570271688266234095972607310527103298638983648876977256819771874170373215698104824112235358691388513829839627733460293223417818020170986408426995425094909307732676356022654099726165321395889520207421801010493399031785063732178161886471855433898402905218076018155390995627562100053780658426580765757127671281
+```
+
+Flag format:
+
+```text
+squ1rrel{}
+```
+
+---
+
+## Step 1 — Observe weak RSA construction
+
+The modulus was vulnerable because:
+
+[
+n = p \cdot q
+]
+
+and the two primes were extremely close together.
+
+That makes **Fermat Factorization** effective.
+
+Fermat works by writing:
+
+[
+n = a^2-b^2
+]
+
+which factors as:
+
+[
+n=(a-b)(a+b)
+]
+
+So:
+
+[
+p=a-b
+]
+
+[
+q=a+b
+]
+
+---
+
+## Step 2 — Fermat Factorization
+
+Start with:
+
+[
+a=\lceil \sqrt n \rceil
+]
+
+Then repeatedly compute:
+
+[
+b^2=a^2-n
+]
+
+until (b^2) is a perfect square.
+
+This quickly gives:
+
+```text
+p =
+135173046377116840237249257807585521822120924971159097041164872549863311326795433410377176369726317701367890509996844855090060060550021334602930677943468033435386576212466754145026932948174335916651892131294979169952572511184768826591060701496483080650808039657951105534411885462980622743095185985212627309699
+
+q =
+135173046377116840237249257807585521822120924971159097041164872549863311326795433410377176369726317701367890509996844855090060060550021334602930677943468033435386576212466754145026932948174335916651892131294979169952572511184768826591060701496483080650808039657951105534411885462980622743095185985212627313019
+```
+
+---
+
+## Step 3 — Compute private key
+
+Assume standard:
+
+[
+e=65537
+]
+
+Compute:
+
+[
+\phi(n)=(p-1)(q-1)
+]
+
+Then:
+
+[
+d=e^{-1} \mod \phi(n)
+]
+
+---
+
+## Step 4 — Decrypt ciphertext
+
+The ciphertext is Base64 encoded.
+
+Decode it, convert to integer:
+
+[
+c = \text{bytes_to_long}(ciphertext)
+]
+
+Decrypt:
+
+[
+m=c^d \mod n
+]
+
+Remove PKCS#1 v1.5 padding.
+
+Recovered plaintext:
+
+```text
+aoei;jrgnapeicgiw,fgjpisugfr
+```
+
+---
+
+## Step 5 — Build flag
+
+```text
+squ1rrel{aoei;jrgnapeicgiw,fgjpisugfr}
+```
+
+---
+
+# Solve Script
+
+```python
+from Crypto.Util.number import *
+import math, base64
+
+n = 18271752466870180127745800868708214630162281586246824926034232332196351776561071950037425807823961949825871587999632822002545598857069391130795394202584764494207030362917447457268736832607015087954459047881817775038313528023934958504556651502169601424341939024000029258765144167071321184423165780495670199483967570271688266234095972607310527103298638983648876977256819771874170373215698104824112235358691388513829839627733460293223417818020170986408426995425094909307732676356022654099726165321395889520207421801010493399031785063732178161886471855433898402905218076018155390995627562100053780658426580765757127671281
+
+e = 65537
+
+ct_b64 = "aOCmih7+sJ6kVC5cvdytyi1OILZnUMU3tC1IfXJpvPMtMMESjppgeHm4ync7orf/Gm9LDeGeWFttxlmWMWLYbiz258fbVzvoSCj92+2kWKY8UN8yYcKPo7IoC/NmZX4dRgZ9NBopkf794ylGJgIIamzUR2Sauinul5YSJKAt0s6w3OOD40mmJDhRn5D0KuYiPHZDQ33xakTfbstxcTpB3jtA01Rt6iXydiXotarTjjplrdc3359bHGyLvzRtHPlExAYSdJfc63WAC4vFbmg+/x24E969ItexAo2JK1oztz8tUHmrDxsBu/07SXFx2PYbDkGPzJBkYKT/2ThntFEfTA=="
+
+# Fermat factorization
+a = isqrt(n)
+if a*a < n:
+    a += 1
+
+while True:
+    b2 = a*a - n
+    b = isqrt(b2)
+    if b*b == b2:
+        break
+    a += 1
+
+p = a-b
+q = a+b
+
+phi = (p-1)*(q-1)
+d = inverse(e, phi)
+
+c = bytes_to_long(base64.b64decode(ct_b64))
+m = pow(c,d,n)
+
+pt = long_to_bytes(m)
+
+# remove PKCS#1 v1.5 padding
+msg = pt.split(b"\x00",2)[-1]
+
+print(msg.decode())
+```
+
+---
+
+## Vulnerability
+
+The bug:
+
+* RSA primes were chosen too close together.
+
+That makes:
+
+* Fermat factorization trivial
+* Private key recoverable
+* RSA completely broken
+
+Classic weak-key generation failure.
+---
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
