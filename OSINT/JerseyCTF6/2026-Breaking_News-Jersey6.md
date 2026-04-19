@@ -18,4 +18,8 @@ I searched for documentation of what happened immediately after Gagarin's landin
 The footnotes in the document identify the Izvestiya correspondent as Georgiy Nikolayevich Ostroumov (1919–2001) notably, Ostroumov also conducted a full interview with Gagarin that was published in Izvestiya on April 14, 1961 the day after the flight making him the correspondent most directly associated with congratulating Gagarin and covering the story.
 
 Flag: jctf{Izvestiya}
+---
+* [🔙 Back to OSINT Directory](../)
+* [🔙 Back to OSINT Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
 
