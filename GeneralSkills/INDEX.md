@@ -13,6 +13,8 @@
 |9| 2026-04-10 | **UMass CTF** | Reflection | [View Logs](./UMass/2026-Welcome-UMass26.md) | [Kursad](https://github.com/kursad1337) |
 |10| 2026-04-17 | **Blue Hen CTF** | Welcome | [View Logs](./BlueHen/2026-Welcome-BlueHen.md) | [Saber](https://github.com/BO-Saber) |
 |11| 2026-04-17 | **Squ1rrel** | discord | [View Logs](./Squ1rrel/2026-discord-squ1rrel.md) | [Saber](https://github.com/BO-Saber) |
+|12| 2026-04-19 | **Jersey 6 CTF** | Jersey CTF 6 Feedback | [View Logs](./JerseyCTF6/2026-Jersey_CTF_6_Feedback-Jersey6.md) | [TnmXSpark](https://github.com/tnm-yes-anyidea) |
+|13| 2026-04-19 | **Jersey 6 CTF** | Read The Rules | [View Logs](./JerseyCTF6/2026-Read_the_rules-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 
 
 ---
