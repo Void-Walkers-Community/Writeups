@@ -145,3 +145,8 @@ for p in parts:
 ## Final Flag
 
 squ1rrel{d0nut_c0mM1T_uR_s3cR3ts_w1tH_g1T_12b7160d77d8fbd071f42e0cbccad934}
+
+---
+* [🔙 Back to Miscallaneous Directory](../)
+* [🔙 Back to Miscellaneous Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
