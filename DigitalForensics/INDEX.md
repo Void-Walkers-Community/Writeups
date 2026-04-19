@@ -17,6 +17,8 @@
 |13| 2026-04-18 | **Hive CTF** | Do some magic | [View Logs](./HiveCTF/2026-Do_some_magic-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
 |14| 2026-04-18 | **Hive CTF** | Honey Hesit 1: Factory Hack | [View Logs](./HiveCTF/2026-Honey_Heist_1_Factory_Hack-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
 |15| 2026-04-17 | **Blue Hen CTF** | Blue Hen Telemetry | [View Logs](./BlueHen/2026-Blue_Hen_Telemetry-BlueHen.md) | [Saber](https://github.com/BO-Saber) |
+|16| 2026-04-17 | **Blue Hen CTF** | awkwarddddd | [View Logs](./BlueHen/2026-awkwardddd-BlueHen.md) | Tom4Hawk |
+|17| 2026-04-17 | **Blue Hen CTF** | Freakquency | [View Logs](./BlueHen/2026-Freakquency-BlueHen.md) | Tom4hawk |
 
 ---
 * [🔙 Back to Forensics Directory](../DigitalForensics)
