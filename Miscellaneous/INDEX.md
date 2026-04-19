@@ -22,7 +22,9 @@
 |18| 2026-04-15 | **Incognito 7.0** | Thunder Blaze | [View Logs](./INCOGNITO7/2026-Thunder_Blaze-Incognito7.md) | [Karam](https://github.com/parth0xu) |
 |19| 2026-04-18 | **Hive CTF** | Fix Me | [View Logs](./HiveCTF/2026-Fix_Me-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
 |20| 2026-04-18 | **Hive CTF** | Welcome | [View Logs](./HiveCTF/2026-Welcome-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
-
+|21| 2026-04-17 | **Blue Hen CTF** | Blind Hens [View Logs](./BlueHen/2026-Blind_Hens-BlueHen.md) | [Mein](https://github.com/meinsoft) |
+|22| 2026-04-17 | **Blue Hen CTF** | Lock and Key | [View Logs](./BlueHen/2026-Lock_and_Key-BlueHen.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
+|23| 2026-04-17 | **Blue Hen CTF** | Looking Down | [View Logs](./BlueHen/2026-Looking_Down-BlueHen.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
