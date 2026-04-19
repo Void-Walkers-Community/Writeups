@@ -19,11 +19,12 @@
 |16| 2026-04-17 | **Squ1rrel** | flat earth 2 | [View Logs](./Squ1rrel/2026-flat_earth_2-squ1rrel.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
 |17| 2026-04-17 | **Squ1rrel** | discord | [View Logs](./Squ1rrel/2026-rsa-squ1rrel.md) | [Saber](https://github.com/BO-Saber) |
 |18| 2026-04-19 | **Jersey 6 CTF** | Bright Night Sky | [View Logs](./JerseyCTF6/2026-Bright_Night_Sky-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
-|19| 2026-04-19 | **Jersey 6 CTF** | CryptoVisor | [View Logs](./JerseyCTF6/2026-CryptoVisor-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
-|20| 2026-04-19 | **Jersey 6 CTF** | ENigma | [View Logs](./JerseyCTF6/2026-ENigma-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
-|21| 2026-04-19 | **Jersey 6 CTF** | Operation Dark Side | [View Logs](./JerseyCTF6/2026-Operation_Dark_Side-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
-|22| 2026-04-19 | **Jersey 6 CTF** | Play Fair! Punch | [View Logs](./JerseyCTF6/2026-Play_Fair_Punch-Jersey6.md) | [MRPS](https://github.com/Priyanshuofficial1) |
-
+|19| 2026-04-19 | **Jersey 6 CTF** | Broken Signal | [View Logs](./JerseyCTF6/2026-Broken_Signal-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|20| 2026-04-19 | **Jersey 6 CTF** | CryptoVisor | [View Logs](./JerseyCTF6/2026-CryptoVisor-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
+|21| 2026-04-19 | **Jersey 6 CTF** | ENigma | [View Logs](./JerseyCTF6/2026-ENigma-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|22| 2026-04-19 | **Jersey 6 CTF** | Operation Dark Side | [View Logs](./JerseyCTF6/2026-Operation_Dark_Side-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|23| 2026-04-19 | **Jersey 6 CTF** | Play Fair! Punch | [View Logs](./JerseyCTF6/2026-Play_Fair_Punch-Jersey6.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|13| 2026-04-19 | **Jersey 6 CTF** | myDefinitive Encryption Standard | [View Logs](./JerseyCTF6/2026-myDefinitive_Encryption_Standard-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
