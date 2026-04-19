@@ -28,6 +28,8 @@
 |24| 2026-04-18 | **Hive CTF** | Biafra 1: Days of Future Past | [View Logs](./HiveCTF/2026-Biafra_1_Days_of_future_past-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
 |25| 2026-04-18 | **Hive CTF** | Out for a Walk | [View Logs](./HiveCTF/2026-Out_for_a_walk-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
 |26| 2026-04-18 | **Hive CTF** | Sea Sea Sea | [View Logs](./HiveCTF/2026-Sea_Sea_Sea-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
+|27| 2026-04-17 | **Blue Hen CTF** | 3 Words | [View Logs](./BlueHen/2026-3_Words.md) | [Saber](https://github.com/BO-Saber) |
+|28| 2026-04-17 | **Blue Hen CTF** | The Hungry? Caterpillar | [View Logs](./BlueHen/2026-The_Hungry_Caterpillar-BlueHen.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to OSINT Directory](../OSINT)
