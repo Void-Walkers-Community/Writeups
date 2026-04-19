@@ -30,10 +30,11 @@
 |26| 2026-04-18 | **Hive CTF** | Sea Sea Sea | [View Logs](./HiveCTF/2026-Sea_Sea_Sea-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
 |27| 2026-04-17 | **Blue Hen CTF** | 3 Words | [View Logs](./BlueHen/2026-3_Words-BlueHen.md) | [Saber](https://github.com/BO-Saber) |
 |28| 2026-04-17 | **Blue Hen CTF** | The Hungry? Caterpillar | [View Logs](./BlueHen/2026-The_Hungry_Caterpillar-BlueHen.md) | [Saber](https://github.com/BO-Saber) |
-|29| 2026-04-19 | **Jersey 6 CTF** | HackerSearch | [View Logs](./JerseyCTF6/2026-HackerSearch-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
-|30| 2026-04-19 | **Jersey 6 CTF** | Lost Signal | [View Logs](./JerseyCTF6/2026-Lost_Signal-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
-|31| 2026-04-19 | **Jersey 6 CTF** | Mission Control | [View Logs](./JerseyCTF6/2026-Mission_Control-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
-|32| 2026-04-19 | **Jersey 6 CTF** | See You Space Cowboy | [View Logs](./JerseyCTF6/2026-See_You_Space_Cowboy-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
+|29| 2026-04-19 | **Jersey 6 CTF** | Breaking News | [View Logs](./JerseyCTF6/2026-Breaking_News-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|30| 2026-04-19 | **Jersey 6 CTF** | HackerSearch | [View Logs](./JerseyCTF6/2026-HackerSearch-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
+|31| 2026-04-19 | **Jersey 6 CTF** | Lost Signal | [View Logs](./JerseyCTF6/2026-Lost_Signal-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
+|32| 2026-04-19 | **Jersey 6 CTF** | Mission Control | [View Logs](./JerseyCTF6/2026-Mission_Control-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|33| 2026-04-19 | **Jersey 6 CTF** | See You Space Cowboy | [View Logs](./JerseyCTF6/2026-See_You_Space_Cowboy-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
 
 
 ---
