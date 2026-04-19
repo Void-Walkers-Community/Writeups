@@ -11,6 +11,7 @@
 |7| 2026-04-10 | **Dawg CTF** | Real Security! | [View Logs](./DawgCTF/2026-Real_Security-Dawg_CTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |8| 2026-04-10 | **Dawg CTF** | Reflection | [View Logs](./DawgCTF/2026-Reflection-Dawg_CTF.md) | [Karam](https://github.com/parth0xu) |
 |9| 2026-04-10 | **UMass CTF** | Reflection | [View Logs](./UMass/2026-Welcome-UMass26.md) | [Kursad](https://github.com/kursad1337) |
+|10| 2026-04-17 | **Blue Hen CTF** | Welcome | [View Logs](./BlueHen/2026-Welcome-BlueHen.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to General Skill Directory](../GeneralSkills)
