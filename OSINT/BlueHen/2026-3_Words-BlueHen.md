@@ -1,2 +1,8 @@
 https://www.google.com/maps/@40.7133539,-74.0061901,3a,75y,89.14h,77.75t/data=!3m7!1e1!3m5!1sFbZvbg_Xg6s7mVXJCTvqew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D12.24799200417091%26panoid%3DFbZvbg_Xg6s7mVXJCTvqew%26yaw%3D89.13956130946818!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D
+
+
 UDCTF{gladiators.pace.places}
+---
+* [🔙 Back to OSINT Directory](../)
+* [🔙 Back to OSINT Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
