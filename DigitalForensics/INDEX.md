@@ -25,6 +25,7 @@
 |21| 2026-04-19 | **Jersey 6 CTF** | Fix Your Ship | [View Logs](./JerseyCTF6/2026-Fix_Your_Ship-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 |22| 2026-04-19 | **Jersey 6 CTF** | Space Man | [View Logs](./JerseyCTF6/2026-Space_Man-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 |23| 2026-04-19 | **Jersey 6 CTF** | qaStaH nuq | [View Logs](./JerseyCTF6/2026-qaStaH_nuq-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|24| 2026-04-19 | **Jersey 6 CTF** | Recovered Signal File | [View Logs](./JerseyCTF6/2026-Recovered_Signal_File-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 
 
 ---
