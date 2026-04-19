@@ -26,7 +26,7 @@
 |22| 2026-04-17 | **Blue Hen CTF** | Lock and Key | [View Logs](./BlueHen/2026-Lock_and_Key-BlueHen.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
 |23| 2026-04-17 | **Blue Hen CTF** | Looking Down | [View Logs](./BlueHen/2026-Looking_Down-BlueHen.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
 |24| 2026-04-17 | **Squ1rrel** | Bawk Bawk | [View Logs](./Squ1rrel/2026-Bawk_Bawk-squ1rrel.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
-|24| 2026-04-17 | **Squ1rrel** | gitting the secret | [View Logs](./Squ1rrel/2026-gitting_the_secret-squ1rrel.md) | [Chimera](https://github.com/) |
+|24| 2026-04-17 | **Squ1rrel** | gitting the secret | [View Logs](./Squ1rrel/2026-gitting_the_secret-squ1rrel.md) | [Chimera](https://github.com/Chimera418) |
 |24| 2026-04-17 | **Squ1rrel** | soulmate | [View Logs](./Squ1rrel/2026-soulmate-squ1rrel.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
 
 
