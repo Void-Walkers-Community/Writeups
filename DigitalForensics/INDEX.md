@@ -19,6 +19,8 @@
 |15| 2026-04-17 | **Blue Hen CTF** | Blue Hen Telemetry | [View Logs](./BlueHen/2026-Blue_Hen_Telemetry-BlueHen.md) | [Saber](https://github.com/BO-Saber) |
 |16| 2026-04-17 | **Blue Hen CTF** | awkwarddddd | [View Logs](./BlueHen/2026-awkwardddd-BlueHen.md) | Tom4Hawk |
 |17| 2026-04-17 | **Blue Hen CTF** | Freakquency | [View Logs](./BlueHen/2026-Freakquency-BlueHen.md) | Tom4hawk |
+|18| 2026-04-17 | **Blue Hen CTF** | Name Calling | [View Logs](./BlueHen/2026-Name_Calling-BlueHen.md) | [Mein](https://github.com/meinsoft) |
+|19| 2026-04-17 | **Blue Hen CTF** | Hens Can Type? | [View Logs](./BlueHen/2026-Hens_can_type-BlueHen.md) | [Mein](https://github.com/meinsoft) |
 
 ---
 * [🔙 Back to Forensics Directory](../DigitalForensics)
