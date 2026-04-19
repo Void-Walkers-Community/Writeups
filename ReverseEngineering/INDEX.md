@@ -12,6 +12,13 @@
 |8| 2026-03-28 | **TexSAW CTF** | Switcheroo | [View Logs](./TexSAW26/2026-Switcheroo-TexSAWCTF.md) | [White Death 16](https://github.com/Ayush-Parab) |
 |9| 2026-04-10 | **UMass** | Batcave Bitflips | [View Logs](./UMass/2026-Batcave_Bitflips-UMass26.md) | [0xZ1R0](https://github.com/0xZ1R0) |
 |10| 2026-04-10 | **UMass** | Lego Clicker | [View Logs](./UMass/2026-Lego_Clicker-UMass26.md) | [Karam](https://github.com/path0xu) |
+|11| 2026-04-18 | **Hive CTF** | Hive Party Pack | [View Logs](./HiveCTF/2026-Hive_Party_Pack-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
+|12| 2026-04-18 | **Hive CTF** | HoneyPot | [View Logs](./HiveCTF/2026-HoneyPot-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
+|13| 2026-04-18 | **Hive CTF** | LicenseD | [View Logs](./HiveCTF/2026-LicenseD-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
+|14| 2026-04-18 | **Hive CTF** | Opcode Oracle | [View Logs](./HiveCTF/2026-Opcode_Oracle-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
+|15| 2026-04-18 | **Hive CTF** | Stubbed | [View Logs](./HiveCTF/2026-Stubbed-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
+|16| 2026-04-18 | **Hive CTF** | Hives Secret | [View Logs](./HiveCTF/2026-The_hives_secret-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
+
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
