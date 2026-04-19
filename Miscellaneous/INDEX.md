@@ -20,6 +20,8 @@
 |16| 2026-04-15 | **Incognito 7.0** | 300 | [View Logs](./INCOGNITO7/2026-300-Incognito7.md) | [Cyrus](https://github.com/zaibi24) |
 |17| 2026-04-15 | **Incognito 7.0** | Grawlix | [View Logs](./INCOGNITO7/2026-Grawlix-Incognito7.md) | [FOLDSAB](https://github.com/FOLDSAB) |
 |18| 2026-04-15 | **Incognito 7.0** | Thunder Blaze | [View Logs](./INCOGNITO7/2026-Thunder_Blaze-Incognito7.md) | [Karam](https://github.com/parth0xu) |
+|19| 2026-04-18 | **Hive CTF** | Fix Me | [View Logs](./HiveCTF/2026-Fix_Me-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
+|20| 2026-04-18 | **Hive CTF** | Welcome | [View Logs](./HiveCTF/2026-Welcome-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
 
 
 ---
