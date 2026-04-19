@@ -21,6 +21,11 @@
 |17| 2026-04-17 | **Blue Hen CTF** | Freakquency | [View Logs](./BlueHen/2026-Freakquency-BlueHen.md) | Tom4hawk |
 |18| 2026-04-17 | **Blue Hen CTF** | Name Calling | [View Logs](./BlueHen/2026-Name_Calling-BlueHen.md) | [Mein](https://github.com/meinsoft) |
 |19| 2026-04-17 | **Blue Hen CTF** | Hens Can Type? | [View Logs](./BlueHen/2026-Hens_can_type-BlueHen.md) | [Mein](https://github.com/meinsoft) |
+|20| 2026-04-19 | **Jersey 6 CTF** | Cold Wake | [View Logs](./JerseyCTF6/2026-Cold_Wake-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|21| 2026-04-19 | **Jersey 6 CTF** | Fix Your Ship | [View Logs](./JerseyCTF6/2026-Fix_Your_Ship-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|22| 2026-04-19 | **Jersey 6 CTF** | Space Man | [View Logs](./JerseyCTF6/2026-Space_Man-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|23| 2026-04-19 | **Jersey 6 CTF** | qaStaH nuq | [View Logs](./JerseyCTF6/2026-qaStaH_nuq-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+
 
 ---
 * [🔙 Back to Forensics Directory](../DigitalForensics)
