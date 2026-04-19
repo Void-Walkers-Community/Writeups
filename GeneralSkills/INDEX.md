@@ -12,6 +12,8 @@
 |8| 2026-04-10 | **Dawg CTF** | Reflection | [View Logs](./DawgCTF/2026-Reflection-Dawg_CTF.md) | [Karam](https://github.com/parth0xu) |
 |9| 2026-04-10 | **UMass CTF** | Reflection | [View Logs](./UMass/2026-Welcome-UMass26.md) | [Kursad](https://github.com/kursad1337) |
 |10| 2026-04-17 | **Blue Hen CTF** | Welcome | [View Logs](./BlueHen/2026-Welcome-BlueHen.md) | [Saber](https://github.com/BO-Saber) |
+|11| 2026-04-17 | **Squ1rrel** | discord | [View Logs](./Squ1rrel/2026-discord-squ1rrel.md) | [Saber](https://github.com/BO-Saber) |
+
 
 ---
 * [🔙 Back to General Skill Directory](../GeneralSkills)
