@@ -25,7 +25,9 @@
 |21| 2026-04-10 | **UMass** | We Have 图寻 at Home | [View Logs](./UMass/2026-We_Have_image_search_at_Home-UMass26.md) | Nova0x |
 |22| 2026-04-15 | **Incognito 7.0** | Astley Offset | [View Logs](./INCOGNITO7/2026-Astley_Offset-Incognito7.md) | [Saber](https://github.com/BO-Saber) |
 |23| 2026-04-15 | **Incognito 7.0** | Musk_e_teers | [View Logs](./INCOGNITO7/2026-Musk_e_teers-Incognito7.md) | [Saber](https://github.com/BO-Saber) |
-
+|24| 2026-04-18 | **Hive CTF** | Biafra 1: Days of Future Past | [View Logs](./HiveCTF/2026-Biafra_1_Days_of_future_past-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
+|25| 2026-04-18 | **Hive CTF** | Out for a Walk | [View Logs](./HiveCTF/2026-Out_for_a_walk-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
+|26| 2026-04-18 | **Hive CTF** | Sea Sea Sea | [View Logs](./HiveCTF/2026-Sea_Sea_Sea-HiveCTF.md) | [Saber](https://github.com/BO-Saber)|
 
 ---
 * [🔙 Back to OSINT Directory](../OSINT)
