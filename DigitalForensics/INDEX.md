@@ -33,7 +33,7 @@
 |29| 2026-04-19 | **CIT CTF** | The Evil Files | [View Logs](./CIT/2026-The_Evil_Files-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |30| 2026-04-19 | **CIT CTF** | The click that may have fixed | [View Logs](./CIT/2026-The_click_that_may_have_fixed-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |31| 2026-04-19 | **CIT CTF** | Wiretrap | [View Logs](./CIT/2026-Wiretrap-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
-
+|32| 2026-04-19 | **CIT CTF** | You gotta run, run, run, run, run | [View Logs](./CIT/2026-You_gotta_run_run_run_run_run-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 
 
 ---
