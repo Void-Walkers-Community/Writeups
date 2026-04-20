@@ -29,6 +29,7 @@
 |24| 2026-04-17 | **Squ1rrel** | gitting the secret | [View Logs](./Squ1rrel/2026-gitting_the_secret-squ1rrel.md) | [Chimera](https://github.com/Chimera418) |
 |24| 2026-04-17 | **Squ1rrel** | soulmate | [View Logs](./Squ1rrel/2026-soulmate-squ1rrel.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
 |25| 2026-04-19 | **Jersey 6 CTF** | Hijacked Stream | [View Logs](./JerseyCTF6/2026-Hijacked_Stream-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|26| 2026-04-19 | **Jersey 6 CTF** | New? Start Here | [View Logs](./JerseyCTF6/2026-NewStart_Here-Jersey6.md) | [Frank](https://github.com/taauxick) |
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
