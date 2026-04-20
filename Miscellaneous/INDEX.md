@@ -31,6 +31,12 @@
 |25| 2026-04-19 | **Jersey 6 CTF** | Hijacked Stream | [View Logs](./JerseyCTF6/2026-Hijacked_Stream-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 |26| 2026-04-19 | **Jersey 6 CTF** | New? Start Here | [View Logs](./JerseyCTF6/2026-New_Start_Here-Jersey6.md) | [Frank](https://github.com/taauxick) |
 |27| 2026-04-18 | **Ping CTF** | Sanity Check | [View Logs](./Ping/2026-Sanity_Check-Ping.md) | [Saber](https://github.com/BO-Saber) |
+|28| 2026-04-19 | **CIT CTF** | Call me, maybe? No... wrong decade | [View Logs](./CIT/2026-Call_me_maybe_no_wrong_decade-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|29| 2026-04-19 | **CIT CTF** | Dog Barking | [View Logs](./CIT/2026-Dog_Barking-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|30| 2026-04-19 | **CIT CTF** | Robots | [View Logs](./CIT/2026-Robots-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
+|31| 2026-04-19 | **CIT CTF** | SAM, I am | [View Logs](./CIT/2026-Sam_I_am-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|32| 2026-04-19 | **CIT CTF** | Very Expansive | [View Logs](./CIT/2026-Very_Expansive-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|33| 2026-04-19 | **CIT CTF** | What's the word? | [View Logs](./CIT/2026-Whats_the_word-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
