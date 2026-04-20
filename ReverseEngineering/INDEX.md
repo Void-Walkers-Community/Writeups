@@ -19,6 +19,10 @@
 |15| 2026-04-18 | **Hive CTF** | Stubbed | [View Logs](./HiveCTF/2026-Stubbed-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
 |16| 2026-04-18 | **Hive CTF** | Hives Secret | [View Logs](./HiveCTF/2026-The_hives_secret-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
 |17| 2026-04-17 | **Blue Hen CTF** | A Logical Deduction | [View Logs](./BlueHen/2026-A_Logical_Deduction-BlueHen.md) | Tom4Hawk |
+|18| 2026-04-18 | **Ping CTF** | CTF Madness | [View Logs](./Ping/2026-CTF_Madness-Ping.md) | [Karam](https://github.com/path0xu) |
+|19| 2026-04-18 | **Ping CTF** | Gol | [View Logs](./Ping/2026-Gol-Ping.md) | [Karam](https://github.com/path0xu) |
+|20| 2026-04-18 | **Ping CTF** | loicense | [View Logs](./Ping/2026-loicense-Ping.md) | [Parachyut](https://github.com/pluhchyut) |
+
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
