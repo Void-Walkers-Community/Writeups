@@ -24,11 +24,12 @@
 |21| 2026-04-19 | **Jersey 6 CTF** | ENigma | [View Logs](./JerseyCTF6/2026-ENigma-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 |22| 2026-04-19 | **Jersey 6 CTF** | Operation Dark Side | [View Logs](./JerseyCTF6/2026-Operation_Dark_Side-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 |23| 2026-04-19 | **Jersey 6 CTF** | Play Fair! Punch | [View Logs](./JerseyCTF6/2026-Play_Fair_Punch-Jersey6.md) | [MRPS](https://github.com/Priyanshuofficial1) |
-|13| 2026-04-19 | **Jersey 6 CTF** | myDefinitive Encryption Standard | [View Logs](./JerseyCTF6/2026-myDefinitive_Encryption_Standard-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
-|14| 2026-04-19 | **CIT CTF** | Baby Exponent | [View Logs](./CIT/2026-Baby_Exponent-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
-|15| 2026-04-19 | **CIT CTF** | Brainiac | [View Logs](./CIT/2026-Brainiac-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
-|14| 2026-04-19 | **CIT CTF** | Rotor Rooter | [View Logs](./CIT/2026-Rotor_Rooter-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
-|15| 2026-04-19 | **CIT CTF** | The Onion | [View Logs](./CIT/2026-The_Onion-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
+|24| 2026-04-19 | **Jersey 6 CTF** | myDefinitive Encryption Standard | [View Logs](./JerseyCTF6/2026-myDefinitive_Encryption_Standard-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
+|25| 2026-04-19 | **CIT CTF** | Baby Exponent | [View Logs](./CIT/2026-Baby_Exponent-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|26| 2026-04-19 | **CIT CTF** | Brainiac | [View Logs](./CIT/2026-Brainiac-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|27| 2026-04-19 | **CIT CTF** | Rotor Rooter | [View Logs](./CIT/2026-Rotor_Rooter-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
+|28| 2026-04-19 | **CIT CTF** | The Onion | [View Logs](./CIT/2026-The_Onion-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
+|21| 2026-04-19 | **b01lers CTF** | ecb-lasgna | [View Logs](./b01lers/2026-ecb_lasagna-b01lers.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
