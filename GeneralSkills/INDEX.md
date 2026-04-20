@@ -15,7 +15,10 @@
 |11| 2026-04-17 | **Squ1rrel** | discord | [View Logs](./Squ1rrel/2026-discord-squ1rrel.md) | [Saber](https://github.com/BO-Saber) |
 |12| 2026-04-19 | **Jersey 6 CTF** | Jersey CTF 6 Feedback | [View Logs](./JerseyCTF6/2026-Jersey_CTF_6_Feedback-Jersey6.md) | [TnmXSpark](https://github.com/tnm-yes-anyidea) |
 |13| 2026-04-19 | **Jersey 6 CTF** | Read The Rules | [View Logs](./JerseyCTF6/2026-Read_the_rules-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
-
+|14| 2026-04-19 | **CIT CTF** | Discord | [View Logs](./CIT/2026-Discord-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|15| 2026-04-19 | **CIT CTF** | LinkedIn | [View Logs](./CIT/2026-LinkedIn-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|16| 2026-04-19 | **CIT CTF** | Rules | [View Logs](./CIT/2026-Rules-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|17| 2026-04-19 | **CIT CTF** | Welcome | [View Logs](./CIT/2026-Welcome-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 
 ---
 * [🔙 Back to General Skill Directory](../GeneralSkills)
