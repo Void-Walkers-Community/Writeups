@@ -1,4 +1,4 @@
-<img width="1193" height="843" alt="Pasted image 20260419223715" src="https://github.com/user-attachments/assets/e3ffd596-73de-4467-a08a-d62ca958030e" /><img width="1193" height="843" alt="Pasted image 20260419223715" src="https://github.com/user-attachments/assets/a81a9410-29ec-456e-9946-e216f3f781b3" />
+<img width="1193" height="843" alt="Pasted image 20260419223715" src="https://github.com/user-attachments/assets/e3ffd596-73de-4467-a08a-d62ca958030e" />
 
 The challenge file is a `Windows Registry` file. I used `Fred` to open it in Linux.
 
@@ -16,3 +16,8 @@ It is executing an `.exe` file called `fj3493.exe` which is definitely not norma
 Hence, the name is our flag!
 
 Flag - `CIT{AzureTenant}`
+
+---
+* [🔙 Back to Digital Forensics Directory](../)
+* [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
