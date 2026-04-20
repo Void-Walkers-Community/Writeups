@@ -25,7 +25,7 @@
 |21| 2026-04-19 | **CIT CTF** | Catacombs | [View Logs](./CIT/2026-Catacombs-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |22| 2026-04-19 | **CIT CTF** | Faultline | [View Logs](./CIT/2026-Faultline-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |23| 2026-04-19 | **CIT CTF** | Say My Name | [View Logs](./CIT/2026-Say_My_Name-CIT.md) | [Kursad](https://github.com/kursad1337) |
-
+|24| 2026-04-19 | **CIT CTF** | Escape Room | [View Logs](./CIT/2026-Escape_Room-CIT.md) | [Kursad](https://github.com/kursad1337) |
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
