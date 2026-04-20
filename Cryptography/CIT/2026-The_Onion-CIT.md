@@ -1,5 +1,4 @@
-![](<./img/Pasted image 20260419184536.png>)
-
+<img width="1195" height="773" alt="Pasted image 20260419184536" src="https://github.com/user-attachments/assets/23418644-7eb6-4d3f-a42b-852af686c0a8" />
 Contents of `challenge.txt`
 
 ```
@@ -102,7 +101,8 @@ b9486c74c779db5194d6508bebbee72b
 
 Now this sequence of characters does not look like a base64 encoded string. We go to `crackstation.net` to try and figure out what type of hash this is and if a value in its rainbow table matches.
 
-![](<./img/Pasted image 20260419185535.png>)
+<img width="1674" height="612" alt="Pasted image 20260419185535" src="https://github.com/user-attachments/assets/f05a2d5e-66db-4e2d-a322-75bd875ac5fc" />
+
 
 And we got a match! It is a NTLM hash
 
