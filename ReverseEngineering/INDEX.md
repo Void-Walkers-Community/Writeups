@@ -22,6 +22,9 @@
 |18| 2026-04-18 | **Ping CTF** | CTF Madness | [View Logs](./Ping/2026-CTF_Madness-Ping.md) | [Karam](https://github.com/path0xu) |
 |19| 2026-04-18 | **Ping CTF** | Gol | [View Logs](./Ping/2026-Gol-Ping.md) | [Karam](https://github.com/path0xu) |
 |20| 2026-04-18 | **Ping CTF** | loicense | [View Logs](./Ping/2026-loicense-Ping.md) | [Parachyut](https://github.com/pluhchyut) |
+|21| 2026-04-19 | **CIT CTF** | Catacombs | [View Logs](./CIT/2026-Catacombs-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
+|22| 2026-04-19 | **CIT CTF** | Faultline | [View Logs](./CIT/2026-Faultline-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|23| 2026-04-19 | **CIT CTF** | Say My Name | [View Logs](./CIT/2026-Say_My_Name-CIT.md) | [Kursad](https://github.com/kursad1337) |
 
 
 ---
