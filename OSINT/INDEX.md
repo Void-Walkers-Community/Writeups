@@ -36,6 +36,10 @@
 |32| 2026-04-19 | **Jersey 6 CTF** | Mission Control | [View Logs](./JerseyCTF6/2026-Mission_Control-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 |33| 2026-04-19 | **Jersey 6 CTF** | See You Space Cowboy | [View Logs](./JerseyCTF6/2026-See_You_Space_Cowboy-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
 |34| 2026-04-19 | **Jersey 6 CTF** | Tunnels! | [View Logs](./JerseyCTF6/2026-tunnels-Jersey6.md) | [Frank](https://github.com/taauxick) |
+|35| 2026-04-19 | **CIT CTF** | Follow The Flock | [View Logs](./CIT/2026-Follow_the_Flock-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|36| 2026-04-19 | **CIT CTF** | The Forbidden Sock | [View Logs](./CIT/2026-The_Forbidden_Sock-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
+|37| 2026-04-19 | **CIT CTF** | Yanella | [View Logs](./CIT/2026-Yanella-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
+
 
 ---
 * [🔙 Back to OSINT Directory](../OSINT)
