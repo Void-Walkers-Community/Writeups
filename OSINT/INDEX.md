@@ -35,7 +35,7 @@
 |31| 2026-04-19 | **Jersey 6 CTF** | Lost Signal | [View Logs](./JerseyCTF6/2026-Lost_Signal-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
 |32| 2026-04-19 | **Jersey 6 CTF** | Mission Control | [View Logs](./JerseyCTF6/2026-Mission_Control-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 |33| 2026-04-19 | **Jersey 6 CTF** | See You Space Cowboy | [View Logs](./JerseyCTF6/2026-See_You_Space_Cowboy-Jersey6.md) | [Saber](https://github.com/BO-Saber) |
-
+|34| 2026-04-19 | **Jersey 6 CTF** | Tunnels! | [View Logs](./JerseyCTF6/2026-tunnels-Jersey6.md) | [Frank](https://github.com/taauxick) |
 
 ---
 * [🔙 Back to OSINT Directory](../OSINT)
