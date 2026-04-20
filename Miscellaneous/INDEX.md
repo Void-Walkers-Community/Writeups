@@ -30,6 +30,7 @@
 |24| 2026-04-17 | **Squ1rrel** | soulmate | [View Logs](./Squ1rrel/2026-soulmate-squ1rrel.md) | [7.thxxo](https://github.com/ThejasRajamoney) |
 |25| 2026-04-19 | **Jersey 6 CTF** | Hijacked Stream | [View Logs](./JerseyCTF6/2026-Hijacked_Stream-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 |26| 2026-04-19 | **Jersey 6 CTF** | New? Start Here | [View Logs](./JerseyCTF6/2026-New_Start_Here-Jersey6.md) | [Frank](https://github.com/taauxick) |
+|27| 2026-04-18 | **Ping CTF** | Sanity Check | [View Logs](./Ping/2026-Sanity_Check-Ping.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
