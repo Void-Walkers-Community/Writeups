@@ -37,6 +37,7 @@
 |31| 2026-04-19 | **CIT CTF** | SAM, I am | [View Logs](./CIT/2026-Sam_I_am-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |32| 2026-04-19 | **CIT CTF** | Very Expansive | [View Logs](./CIT/2026-Very_Expansive-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |33| 2026-04-19 | **CIT CTF** | What's the word? | [View Logs](./CIT/2026-Whats_the_word-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|34| 2026-04-19 | **b01lers CTF** | badyuri | [View Logs](./b01lers/2026-badyuri-b01lers.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
