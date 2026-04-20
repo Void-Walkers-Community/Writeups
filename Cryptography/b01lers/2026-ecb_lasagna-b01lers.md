@@ -1,4 +1,4 @@
-# ECB-Lasagna Writeup (bctf)
+# ECB-Lasagna Writeup 
 
 ## Challenge intuition
 
