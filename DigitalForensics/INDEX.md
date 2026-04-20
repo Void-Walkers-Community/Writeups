@@ -26,12 +26,12 @@
 |22| 2026-04-19 | **Jersey 6 CTF** | Space Man | [View Logs](./JerseyCTF6/2026-Space_Man-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 |23| 2026-04-19 | **Jersey 6 CTF** | qaStaH nuq | [View Logs](./JerseyCTF6/2026-qaStaH_nuq-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
 |24| 2026-04-19 | **Jersey 6 CTF** | Recovered Signal File | [View Logs](./JerseyCTF6/2026-Recovered_Signal_File-Jersey6.md) | [Ramiz](https://github.com/ramizdevelops) |
-|25| 2026-04-19 | **CIT CTF** | Autonomous | [View Logs](./CIT/2026-Autonomous.md) | [whitedeath16](https://github.com/Ayush-Parab) |
+|25| 2026-04-19 | **CIT CTF** | Autonomous | [View Logs](./CIT/2026-Autonomous-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |26| 2026-04-19 | **CIT CTF** | Larping 101 | [View Logs](./CIT/2026-Larping_101-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |27| 2026-04-19 | **CIT CTF** | Ping Pong | [View Logs](./CIT/2026-Ping_Pong-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |28| 2026-04-19 | **CIT CTF** | Start Me Up | [View Logs](./CIT/2026-Start_Me_Up-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |29| 2026-04-19 | **CIT CTF** | The Evil Files | [View Logs](./CIT/2026-The_Evil_Files-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
-|30| 2026-04-19 | **CIT CTF** | The click that may have fixed | [View Logs](./CIT/2026-The_click_that_may_have_been_fixed-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
+|30| 2026-04-19 | **CIT CTF** | The click that may have fixed | [View Logs](./CIT/2026-The_click_that_may_have_fixed-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |31| 2026-04-19 | **CIT CTF** | Wiretrap | [View Logs](./CIT/2026-Wiretrap-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 
 
