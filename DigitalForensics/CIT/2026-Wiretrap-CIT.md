@@ -180,9 +180,6 @@ CIT{g3t_0ff_th3_ph0n3_1m_0n_th3_1ntern3t}
 ```text
 CIT{g3t_0ff_th3_ph0n3_1m_0n_th3_1ntern3t}
 ```
-
----
-
 ---
 * [🔙 Back to Digital Forensics Directory](../)
 * [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
