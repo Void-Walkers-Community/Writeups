@@ -26,6 +26,7 @@
 |22| 2026-04-19 | **CIT CTF** | Faultline | [View Logs](./CIT/2026-Faultline-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |23| 2026-04-19 | **CIT CTF** | Say My Name | [View Logs](./CIT/2026-Say_My_Name-CIT.md) | [Kursad](https://github.com/kursad1337) |
 |24| 2026-04-19 | **CIT CTF** | Escape Room | [View Logs](./CIT/2026-Escape_Room-CIT.md) | [Kursad](https://github.com/kursad1337) |
+|23| 2026-04-26 | **Alfa CTF** | Accounting of Provision | [View Logs](./AlfaCTF/2026-Accounting_of_Provision-Alfa.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
