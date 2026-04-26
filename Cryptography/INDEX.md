@@ -30,8 +30,8 @@
 |27| 2026-04-19 | **CIT CTF** | Rotor Rooter | [View Logs](./CIT/2026-Rotor_Rooter-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |28| 2026-04-19 | **CIT CTF** | The Onion | [View Logs](./CIT/2026-The_Onion-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |21| 2026-04-19 | **b01lers CTF** | ecb-lasgna | [View Logs](./b01lers/2026-ecb_lasagna-b01lers.md) | [Saber](https://github.com/BO-Saber) |
-|22| 2026-04-26 | **Alfa CTF** | Dress Code | [View Logs](./AlfaCTF/2026-Dress_Code-CIT.md) | [IronmanAshmi](https://github.com/) |
-|23| 2026-04-26 | **Alfa CTF** | Gorpkorny Institute  | [View Logs](./AlfaCTF/2026-Gorpkorny_Institute-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|22| 2026-04-26 | **Alfa CTF** | Dress Code | [View Logs](./AlfaCTF/2026-Dress_Code-Alfa.md) | [IronmanAshmi](https://github.com/) |
+|23| 2026-04-26 | **Alfa CTF** | Gorpkorny Institute  | [View Logs](./AlfaCTF/2026-Gorpkorny_Institute-Alfa.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
