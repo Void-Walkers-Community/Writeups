@@ -38,6 +38,8 @@
 |32| 2026-04-19 | **CIT CTF** | Very Expansive | [View Logs](./CIT/2026-Very_Expansive-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |33| 2026-04-19 | **CIT CTF** | What's the word? | [View Logs](./CIT/2026-Whats_the_word-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |34| 2026-04-19 | **b01lers CTF** | badyuri | [View Logs](./b01lers/2026-badyuri-b01lers.md) | [Saber](https://github.com/BO-Saber) |
+|35| 2026-04-26 | **CTF@AC** | Bank of AC | [View Logs](./AC/2026-Bank_of_AC-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|36| 2026-04-26 | **CTF@AC** | Cosmic | [View Logs](./AC/2026-Cosmic-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
