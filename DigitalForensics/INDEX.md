@@ -34,7 +34,8 @@
 |30| 2026-04-19 | **CIT CTF** | The click that may have fixed | [View Logs](./CIT/2026-The_click_that_may_have_fixed-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |31| 2026-04-19 | **CIT CTF** | Wiretrap | [View Logs](./CIT/2026-Wiretrap-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |32| 2026-04-19 | **CIT CTF** | You gotta run, run, run, run, run | [View Logs](./CIT/2026-You_gotta_run_run_run_run_run-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
-
+|33| 2026-04-26 | **CTF@AC** | The Lost iPod | [View Logs](./AC/2026-The_Lost_iPod-AC.md) | Nova0x |
+|34| 2026-04-26 | **CTF@AC** | It's Alive | [View Logs](./AC/2026-its_alive-AC.md) | Nova0x |
 
 ---
 * [🔙 Back to Forensics Directory](../DigitalForensics)
