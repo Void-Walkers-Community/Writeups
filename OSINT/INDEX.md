@@ -39,7 +39,8 @@
 |35| 2026-04-19 | **CIT CTF** | Follow The Flock | [View Logs](./CIT/2026-Follow_the_Flock-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |36| 2026-04-19 | **CIT CTF** | The Forbidden Sock | [View Logs](./CIT/2026-The_Forbidden_Sock-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |37| 2026-04-19 | **CIT CTF** | Yanella | [View Logs](./CIT/2026-Yanella-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
-
+|38| 2026-04-26 | **CTF@AC** | Grocery Run | [View Logs](./AC/2026-Grocery_Run-AC.md) | [Cyrus Isaac](https://github.com/zaibi24) |
+|39| 2026-04-26 | **CTF@AC** | Imposter | [View Logs](./AC/2026-Imposter-AC.md) | [Cyrus Isaac](https://github.com/zaibi24) |
 
 ---
 * [🔙 Back to OSINT Directory](../OSINT)
