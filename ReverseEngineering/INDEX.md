@@ -26,7 +26,13 @@
 |22| 2026-04-19 | **CIT CTF** | Faultline | [View Logs](./CIT/2026-Faultline-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |23| 2026-04-19 | **CIT CTF** | Say My Name | [View Logs](./CIT/2026-Say_My_Name-CIT.md) | [Kursad](https://github.com/kursad1337) |
 |24| 2026-04-19 | **CIT CTF** | Escape Room | [View Logs](./CIT/2026-Escape_Room-CIT.md) | [Kursad](https://github.com/kursad1337) |
-|23| 2026-04-26 | **Alfa CTF** | Accounting of Provision | [View Logs](./AlfaCTF/2026-Accounting_of_Provision-Alfa.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|25| 2026-04-26 | **Alfa CTF** | Accounting of Provision | [View Logs](./AlfaCTF/2026-Accounting_of_Provision-Alfa.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|26| 2026-04-26 | **CTF@AC** | Another One | [View Logs](./AC/2026-Another_One-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|27| 2026-04-26 | **CTF@AC** | Babydroid | [View Logs](./AC/2026-Babydroid-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|28| 2026-04-26 | **CTF@AC** | Chronomancer | [View Logs](./AC/2026-Chronomancer-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|29| 2026-04-26 | **CTF@AC** | Crossing 33| [View Logs](./AC/2026-Crossing_33-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|30| 2026-04-26 | **CTF@AC** | Firmware Whisper | [View Logs](./AC/2026-Firmware_Whisper-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
