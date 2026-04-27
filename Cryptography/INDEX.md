@@ -32,6 +32,9 @@
 |21| 2026-04-19 | **b01lers CTF** | ecb-lasgna | [View Logs](./b01lers/2026-ecb_lasagna-b01lers.md) | [Saber](https://github.com/BO-Saber) |
 |22| 2026-04-26 | **Alfa CTF** | Dress Code | [View Logs](./AlfaCTF/2026-Dress_Code-Alfa.md) | [Saber](https://github.com/BO-Saber) |
 |23| 2026-04-26 | **Alfa CTF** | Gorpkorny Institute  | [View Logs](./AlfaCTF/2026-Gorpkorny_Institute-Alfa.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|24| 2026-04-26 | **CTF@AC** | Poly-Crypto | [View Logs](./AC/2026-Poly_Crypto-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|25| 2026-04-26 | **CTF@AC** | Seven Minutes | [View Logs](./AC/2026-Seven_Minutes-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
