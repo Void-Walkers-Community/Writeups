@@ -11,7 +11,7 @@
 |7| 2026-04-10 | **Dawg CTF** | Machine Learnding | [View Logs](./DawgCTF/2026-Machine_Learnding-Dawg_CTF.md) | [Rei](https://github.com/elliottophellia) |
 |8| 2026-03-28 | **TexSAW CTF** | Switcheroo | [View Logs](./TexSAW26/2026-Switcheroo-TexSAWCTF.md) | [White Death 16](https://github.com/Ayush-Parab) |
 |9| 2026-04-10 | **UMass** | Batcave Bitflips | [View Logs](./UMass/2026-Batcave_Bitflips-UMass26.md) | [0xZ1R0](https://github.com/0xZ1R0) |
-|10| 2026-04-10 | **UMass** | Lego Clicker | [View Logs](./UMass/2026-Lego_Clicker-UMass26.md) | [Karam](https://github.com/path0xu) |
+|10| 2026-04-10 | **UMass** | Lego Clicker | [View Logs](./UMass/2026-Lego_Clicker-UMass26.md) | [Karam](https://github.com/parth0xu) |
 |11| 2026-04-18 | **Hive CTF** | Hive Party Pack | [View Logs](./HiveCTF/2026-Hive_Party_Pack-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
 |12| 2026-04-18 | **Hive CTF** | HoneyPot | [View Logs](./HiveCTF/2026-HoneyPot-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
 |13| 2026-04-18 | **Hive CTF** | LicenseD | [View Logs](./HiveCTF/2026-LicenseD-HiveCTF.md) | [zwktx](https://github.com/anthonywongaw6-glitch)|
@@ -32,7 +32,7 @@
 |28| 2026-04-26 | **CTF@AC** | Chronomancer | [View Logs](./AC/2026-Chronomancer-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 |29| 2026-04-26 | **CTF@AC** | Crossing 33| [View Logs](./AC/2026-Crossing_33-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 |30| 2026-04-26 | **CTF@AC** | Firmware Whisper | [View Logs](./AC/2026-Firmware_Whisper-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
-
+|31| 2026-04-26 | **TRX CTF** | Wandering | [View Logs](./TRX/2026-Wandering-TRX.md) | [Karam](https://github.com/parth0xu) |
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
