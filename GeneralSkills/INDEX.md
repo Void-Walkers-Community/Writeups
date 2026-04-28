@@ -19,6 +19,7 @@
 |15| 2026-04-19 | **CIT CTF** | LinkedIn | [View Logs](./CIT/2026-LinkedIn-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |16| 2026-04-19 | **CIT CTF** | Rules | [View Logs](./CIT/2026-Rules-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |17| 2026-04-19 | **CIT CTF** | Welcome | [View Logs](./CIT/2026-Welcome-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
+|18| 2026-04-26 | **TRX CTF** | Sanity Check | [View Logs](./TRX/2026-Sanity_Check-TRX.md) | [Karam](https://github.com/parth0xu) |
 
 ---
 * [🔙 Back to General Skill Directory](../GeneralSkills)
