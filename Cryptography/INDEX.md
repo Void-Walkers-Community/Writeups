@@ -34,7 +34,10 @@
 |23| 2026-04-26 | **Alfa CTF** | Gorpkorny Institute  | [View Logs](./AlfaCTF/2026-Gorpkorny_Institute-Alfa.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |24| 2026-04-26 | **CTF@AC** | Poly-Crypto | [View Logs](./AC/2026-Poly_Crypto-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 |25| 2026-04-26 | **CTF@AC** | Seven Minutes | [View Logs](./AC/2026-Seven_Minutes-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
-
+|26| 2026-04-26 | **TRX CTF** | HBKG | [View Logs](./TRX/2026-HBKG-TRX.md) | [Karam](https://github.com/parth0xu) |
+|27| 2026-04-26 | **TRX CTF** | Quantum Cipher | [View Logs](./TRX/2026-Quantum_Cipher-TRX.md) | [Mein](https://github.com/meinsoft) |
+|28| 2026-04-26 | **TRX CTF** | Quantum Cipher Revenge | [View Logs](./TRX/2026-Quantum_Cipher_Revenge-TRX.md) | [C4ZY](https://github.com/cazy8) |
+|29| 2026-04-26 | **TRX CTF** | RSSS | [View Logs](./TRX/2026-RSSS-TRX.md) | [Mein](https://github.com/meinsoft) |
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
