@@ -43,7 +43,7 @@
 |39| 2026-05-01 | **KubSTU CTF** | Vanilla Raw | [View Logs](./KubSTU/2026-Vanilla_Raw-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 |40| 2026-05-01 | **KubSTU CTF** | We have an incident | [View Logs](./KubSTU/2026-We_have_an_incident-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 |41| 2026-05-01 | **KubSTU CTF** | Wirepass | [View Logs](./KubSTU/2026-Wirepass-KubSTU.md) | [Karam](https://github.com/path0xu) |
-|42| 2026-05-01 | **KubSTU CTF** | is the report in english? | [View Logs](./KubSTU/2026-is_the_report_in_english?-KubSTU.md) | [Karam](https://github.com/path0xu) |
+|42| 2026-05-01 | **KubSTU CTF** | is the report in english? | [View Logs](./KubSTU/2026-is_the_report_in_english-KubSTU.md) | [Karam](https://github.com/path0xu) |
 
 
 ---
