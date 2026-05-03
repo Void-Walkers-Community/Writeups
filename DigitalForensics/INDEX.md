@@ -36,6 +36,15 @@
 |32| 2026-04-19 | **CIT CTF** | You gotta run, run, run, run, run | [View Logs](./CIT/2026-You_gotta_run_run_run_run_run-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |33| 2026-04-26 | **CTF@AC** | The Lost iPod | [View Logs](./AC/2026-The_Lost_iPod-AC.md) | Nova0x |
 |34| 2026-04-26 | **CTF@AC** | It's Alive | [View Logs](./AC/2026-its_alive-AC.md) | Nova0x |
+|35| 2026-05-01 | **KubSTU CTF** | Demo | [View Logs](./KubSTU/2026-Demo-KubSTU.md) | [Karam](https://github.com/path0xu) |
+|36| 2026-05-01 | **KubSTU CTF** | Mutant | [View Logs](./KubSTU/2026-Mutant-KubSTU.md) | [Karam](https://github.com/path0xu) |
+|37| 2026-05-01 | **KubSTU CTF** | Ratte | [View Logs](./KubSTU/2026-Ratte-KubSTU.md) | [Karam](https://github.com/path0xu) |
+|38| 2026-05-01 | **KubSTU CTF** | Tunnel | [View Logs](./KubSTU/2026-Tunnel-KubSTU.md) | [Karam](https://github.com/path0xu) |
+|39| 2026-05-01 | **KubSTU CTF** | Vanilla Raw | [View Logs](./KubSTU/2026-Vanilla_Raw-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|40| 2026-05-01 | **KubSTU CTF** | We have an incident | [View Logs](./KubSTU/2026-We_have_an_incident-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|41| 2026-05-01 | **KubSTU CTF** | Wirepass | [View Logs](./KubSTU/2026-Wirepass-KubSTU.md) | [Karam](https://github.com/path0xu) |
+|42| 2026-05-01 | **KubSTU CTF** | is the report in english? | [View Logs](./KubSTU/2026-is_the_report_in_english?-KubSTU.md) | [Karam](https://github.com/path0xu) |
+
 
 ---
 * [🔙 Back to Forensics Directory](../DigitalForensics)
