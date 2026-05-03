@@ -38,6 +38,14 @@
 |27| 2026-04-26 | **TRX CTF** | Quantum Cipher | [View Logs](./TRX/2026-Quantum_Cipher-TRX.md) | [Mein](https://github.com/meinsoft) |
 |28| 2026-04-26 | **TRX CTF** | Quantum Cipher Revenge | [View Logs](./TRX/2026-Quantum_Cipher_Revenge-TRX.md) | [C4ZY](https://github.com/cazy8) |
 |29| 2026-04-26 | **TRX CTF** | RSSS | [View Logs](./TRX/2026-RSSS-TRX.md) | [Mein](https://github.com/meinsoft) |
+|30| 2026-05-01 | **KubSTU CTF** | Base | [View Logs](./KubSTU/2026-Base-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|31| 2026-05-01 | **KubSTU CTF** | Cat Girl Conspiracy | [View Logs](./KubSTU/2026-Cat_Girl_Conspiracy-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|32| 2026-05-01 | **KubSTU CTF** | Furry Cipher | [View Logs](./KubSTU/2026-Furry_Cipher-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|33| 2026-05-01 | **KubSTU CTF** | Nintendo 3DS | [View Logs](./KubSTU/2026-Nintendo_3DS-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|34| 2026-05-01 | **KubSTU CTF** | Not Enough Part 1 | [View Logs](./KubSTU/2026-Not_Enough_Part_1-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|35| 2026-05-01 | **KubSTU CTF** | Not Enough Part 2 | [View Logs](./KubSTU/2026-Not_Enough_Part_2-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1) |
+|36| 2026-05-01 | **KubSTU CTF** | Strange Sequence Numbers | [View Logs](./KubSTU/2026-Strange_Sequence_Numbers-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|37| 2026-05-01 | **KubSTU CTF** | Unlucky 13| [View Logs](./KubSTU/2026-Unlucky_13-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
