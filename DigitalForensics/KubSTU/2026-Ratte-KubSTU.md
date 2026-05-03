@@ -97,3 +97,9 @@ This is consistent with RAT/backdoor beacon or staged C2 telemetry behavior.
 2. Block and monitor traffic to `10.0.0.15:1337`.
 3. Hunt for the same framing pattern (`cc ?? 02`, `cc ?? 01`) across PCAP/NetFlow.
 4. Perform host forensic triage on `10.0.0.5` for RAT persistence and dropped binaries.
+
+---
+* [🔙 Back to Digital Forensics Directory](../)
+* [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
+
