@@ -41,6 +41,15 @@
 |37| 2026-04-19 | **CIT CTF** | Yanella | [View Logs](./CIT/2026-Yanella-CIT.md) | [whitedeath16](https://github.com/Ayush-Parab) |
 |38| 2026-04-26 | **CTF@AC** | Grocery Run | [View Logs](./AC/2026-Grocery_Run-AC.md) | [Cyrus Isaac](https://github.com/zaibi24) |
 |39| 2026-04-26 | **CTF@AC** | Imposter | [View Logs](./AC/2026-Imposter-AC.md) | [Cyrus Isaac](https://github.com/zaibi24) |
+|40| 2026-05-01 | **KubSTU CTF** | 49 days | [View Logs](./KubSTU/2026-49_days-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|41| 2026-05-01 | **KubSTU CTF** | Bad Opsec | [View Logs](./KubSTU/2026-Bad_Opsec-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|42| 2026-05-01 | **KubSTU CTF** | City that doesn't exists | [View Logs](./KubSTU/2026-City_that_doesnt_exists-KubSTU.md) | [Karam](https://github.com/path0xu) |
+|43| 2026-05-01 | **KubSTU CTF** | Founder | [View Logs](./KubSTU/2026-Founder-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|44| 2026-05-01 | **KubSTU CTF** | Legendary Pull | [View Logs](./KubSTU/2026-Legendary_Pull-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|45| 2026-05-01 | **KubSTU CTF** | Minute of fame | [View Logs](./KubSTU/2026-Minute_of_fame-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|46| 2026-05-01 | **KubSTU CTF** | Morning without cordinates | [View Logs](./KubSTU/2026-Morning_without_cordinates-KubSTU.md) | [Karam](https://github.com/path0xu) |
+|47| 2026-05-01 | **KubSTU CTF** | Where is my faculty?  | [View Logs](./KubSTU/2026-Where_is_my_Faculty-KubSTU.md) | [Karam](https://github.com/path0xu) |
+
 
 ---
 * [🔙 Back to OSINT Directory](../OSINT)
