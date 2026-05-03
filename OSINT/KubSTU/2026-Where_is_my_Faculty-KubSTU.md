@@ -1,13 +1,27 @@
-The Institute of Computer Systems and Information Security (ИКСиИБ) at KubSTU was officially renamed to the Faculty of Information Technology and Cybersecurity (Факультет информационных технологий и кибербезопасности), abbreviated as ФИТК.
-According to the official university structure page, this entity was formed on February 1, 2014, through the merger of the Faculty of Computer Technology and Automated Systems and the Institute of Information Technology and Information Security. This date is officially cited as the faculty's "birthday."
+# where is my faculty.md
 
-Following the required format KUBSTU{Abbreviation_DD.MM.YYYY}:
+## Challenge
+The prompt says a faculty was previously called **IKSiIB**, later renamed, and asks for:
+- current abbreviation
+- the faculty “birthday”
 
-Abbreviation: ФИТК  
+Flag format:
+`KUBSTU{Abbreviation_DD.MM.YYYY}`
 
-Birthday: 01.02.2014  
+## OSINT process
+1. Searched for `IKSiIB` and `KUBSTU` references.
+2. Found a relevant Telegram channel page:
+   - **"Факультет информационных технологий и кибербезопасности (ФИТК) | КубГТУ"**
+3. Extracted key lines from the page content:
+   - It states that on **1 February 2014** the institute IKSiIB was created.
+   - The current faculty branding is **ФИТК** (FITK).
 
-Flag: KUBSTU{ФИТК_01.02.2014}
+## Reconstruction
+- Current name/abbreviation: **FITK**
+- Birthday date: **01.02.2014**
+
+## Final flag
+`KUBSTU{FITK_01.02.2014}`
 
 ---
 * [🔙 Back to OSINT Directory](../)
