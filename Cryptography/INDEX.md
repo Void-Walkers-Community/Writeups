@@ -46,6 +46,11 @@
 |35| 2026-05-01 | **KubSTU CTF** | Not Enough Part 2 | [View Logs](./KubSTU/2026-Not_Enough_Part_2-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 |36| 2026-05-01 | **KubSTU CTF** | Strange Sequence Numbers | [View Logs](./KubSTU/2026-Strange_Sequence_Numbers-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
 |37| 2026-05-01 | **KubSTU CTF** | Unlucky 13| [View Logs](./KubSTU/2026-Unlucky_13-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|38| 2026-05-07 | **THCon** | Break the Chain | [View Logs](./THCon/2026-Break_the_Chain-THCon.md) | [Karam](https://github.com/path0xu) |
+|39| 2026-05-07 | **THCon** | Exponope | [View Logs](./THCon/2026-Exponope-THCon.md) | [Karam](https://github.com/path0xu) |
+|40| 2026-05-07 | **THCon** | Forged Goods | [View Logs](./THCon/2026-Forged_Goods-THCon.md) | [Karam](https://github.com/path0xu) |
+|41| 2026-05-07 | **THCon** | Min Max Part 1 | [View Logs](./THCon/2026-Min_Max_Part1-THCon.md) | [Saber](https://github.com/BO-Saber) |
+|42| 2026-05-07 | **THCon** | P4t4t0rz at the Library | [View Logs](./THCon/2026-P4t4t0rz_at_the_libarary-THCon.md) | [Karam](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
