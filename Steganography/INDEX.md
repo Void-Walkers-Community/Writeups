@@ -13,6 +13,7 @@
 |9| 2026-05-01 | **KubSTU CTF** | Krasnodar Tram | [View Logs](./KubSTU/2026-Krasnodar_Tram-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 |10| 2026-05-01 | **KubSTU CTF** | Meow Message | [View Logs](./KubSTU/2026-Meow_Message-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
 |11| 2026-05-01 | **KubSTU CTF** | The Ancient Note | [View Logs](./KubSTU/2026-The_Ancient_Note-KubSTU.md) | [Karam](https://github.com/path0xu) |
+|12| 2026-05-07 | **THCon** | PNG is a lie | [View Logs](./THCon/2026-PNG_is_a_lie-THCon.md) | [j](https://github.com/jctfgit) |
 
 ---
 * [🔙 Back to Steganography Directory](../Steganography)
