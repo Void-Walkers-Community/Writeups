@@ -42,6 +42,7 @@
 |36| 2026-04-26 | **CTF@AC** | Cosmic | [View Logs](./AC/2026-Cosmic-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 |37| 2026-05-01 | **KubSTU CTF** | Cipher Caxap | [View Logs](./KubSTU/2026-Cipher_Caxap-KubSTU.md) | [c4zy](https://github.com/cazy8) |
 |38| 2026-05-01 | **KubSTU CTF** | Mobile WAF | [View Logs](./KubSTU/2026-Mobile_WAF-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1)|
+|39| 2026-05-07 | **THCon** | Welcome to Soc | [View Logs](./THCon/2026-Welcome_to_Soc-THCon.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
