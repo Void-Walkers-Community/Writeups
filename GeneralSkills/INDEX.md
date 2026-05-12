@@ -21,6 +21,9 @@
 |17| 2026-04-19 | **CIT CTF** | Welcome | [View Logs](./CIT/2026-Welcome-CIT.md) | [zwktx](https://github.com/anthonywongaw6-glitch) |
 |18| 2026-04-26 | **TRX CTF** | Sanity Check | [View Logs](./TRX/2026-Sanity_Check-TRX.md) | [Karam](https://github.com/parth0xu) |
 |19| 2026-05-01 | **KubSTU CTF** | Start | [View Logs](./KubSTU/2026-Start-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
+|20| 2026-05-07 | **THCon** | Join the Discord | [View Logs](./THCon/2026-Join_the_Discord-THCon.md) | [Saber](https://github.com/BO-Saber) |
+|21| 2026-05-07 | **THCon** | So Chall | [View Logs](./THCon/2026-So_Chall-THCon.md) | [Karam](https://github.com/path0xu) |
+
 
 ---
 * [🔙 Back to General Skill Directory](../GeneralSkills)
