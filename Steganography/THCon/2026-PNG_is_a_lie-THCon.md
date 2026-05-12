@@ -45,3 +45,12 @@ To extract the data, follow these steps:
 ### Step 4 — Identify the file
 
 The first 8 bytes of the output are `\x89 P N G \r \n \x1a \n`, which is the **PNG magic header**. This confirms the file is a valid **1000×1000 RGB PNG** image.
+
+
+
+---
+* [🔙 Back to Steganography Directory](../)
+* [🔙 Back to Steganography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
+
+
