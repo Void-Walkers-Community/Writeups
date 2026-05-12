@@ -49,7 +49,7 @@
 |45| 2026-05-01 | **KubSTU CTF** | Minute of fame | [View Logs](./KubSTU/2026-Minute_of_fame-KubSTU.md) | [Saber](https://github.com/BO-Saber) |
 |46| 2026-05-01 | **KubSTU CTF** | Morning without cordinates | [View Logs](./KubSTU/2026-Morning_without_cordinates-KubSTU.md) | [Karam](https://github.com/path0xu) |
 |47| 2026-05-01 | **KubSTU CTF** | Where is my faculty?  | [View Logs](./KubSTU/2026-Where_is_my_Faculty-KubSTU.md) | [Karam](https://github.com/path0xu) |
-
+|48| 2026-05-07 | **THCon** | Gunner's Vaccation Bis Part 1 | [View Logs](./THCon/2026-Gunners_Vaccation_Bis_Part1-THCon.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to OSINT Directory](../OSINT)
