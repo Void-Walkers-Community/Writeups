@@ -44,7 +44,7 @@
 |38| 2026-05-01 | **KubSTU CTF** | Mobile WAF | [View Logs](./KubSTU/2026-Mobile_WAF-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1)|
 |39| 2026-05-07 | **THCon** | Welcome to Soc | [View Logs](./THCon/2026-Welcome_to_Soc-THCon.md) | [Saber](https://github.com/BO-Saber) |
 |40| 2026-06-27 | **SEKAI CTF** | Survey | [View Logs](./SEKAICTF/2026-Survey-SEKAICTF.md) | [Rei](https://github.com/elliottophellia) | 
-|41| 2026-11-14 | **Platypwn** | Bish Bash Bosh | [View Logs](./Platypwn/2026-Bish_Bash_Bosh-Platypwn.md) | [Zaibi](https://github.com/) |
+|41| 2026-11-14 | **Platypwn** | Bish Bash Bosh | [View Logs](./Platypwn/2026-Bish_Bash_Bosh-Platypwn.md) | [Zaibi](https://github.com/MIAN024) |
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
