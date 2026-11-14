@@ -51,6 +51,9 @@
 |40| 2026-05-07 | **THCon** | Forged Goods | [View Logs](./THCon/2026-Forged_Goods-THCon.md) | [Karam](https://github.com/path0xu) |
 |41| 2026-05-07 | **THCon** | Min Max Part 1 | [View Logs](./THCon/2026-Min_Max_Part1-THCon.md) | [Saber](https://github.com/BO-Saber) |
 |42| 2026-05-07 | **THCon** | P4t4t0rz at the Library | [View Logs](./THCon/2026-P4t4t0rz_at_the_libarary-THCon.md) | [Karam](https://github.com/BO-Saber) |
+|43| 2026-11-14 | **Platypwn** | DEStruction | [View Logs](./Platypwn/2026-DEStruction-Platypwn.md) | [Hackerayu](https://github.com/Hackearyu1) |
+|44| 2026-11-14 | **Platypwn** | Ron's Revenge | [View Logs](./Platypwn/2026-Rons_Revenge-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
+|45| 2026-11-14 | **Platypwn** | Unholy Trinity| [View Logs](./Platypwn/2026-Unholy_Trinity-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
