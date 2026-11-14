@@ -34,6 +34,8 @@
 |30| 2026-04-26 | **CTF@AC** | Firmware Whisper | [View Logs](./AC/2026-Firmware_Whisper-AC.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 |31| 2026-04-26 | **TRX CTF** | Wandering | [View Logs](./TRX/2026-Wandering-TRX.md) | [Karam](https://github.com/parth0xu) |
 |32| 2026-05-07 | **THCon** | M4t4rmaxima's Hint | [View Logs](./THCon/2026-M4t4rmaximas_Hint_Part1-THCon.md) | [Karam](https://github.com/path0xu) |
+|33| 2026-11-14 | **Platypwn** | FS Enc | [View Logs](./Platypwn/2026-FS_Enc-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
+|34| 2026-11-14 | **Platypwn** | Matryoshka | [View Logs](./Platypwn/2026-Matryoshka-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
