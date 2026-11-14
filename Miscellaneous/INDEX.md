@@ -43,6 +43,7 @@
 |37| 2026-05-01 | **KubSTU CTF** | Cipher Caxap | [View Logs](./KubSTU/2026-Cipher_Caxap-KubSTU.md) | [c4zy](https://github.com/cazy8) |
 |38| 2026-05-01 | **KubSTU CTF** | Mobile WAF | [View Logs](./KubSTU/2026-Mobile_WAF-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1)|
 |39| 2026-05-07 | **THCon** | Welcome to Soc | [View Logs](./THCon/2026-Welcome_to_Soc-THCon.md) | [Saber](https://github.com/BO-Saber) |
+|40| 2026-06-27 | **SEKAI CTF** | Survey | [View Logs](./SEKAICTF/2026-Survey-SEKAICTF.md) | [Rei](https://github.com/elliottophellia) | 
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
