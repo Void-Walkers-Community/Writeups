@@ -26,6 +26,8 @@
 |22| 2026-05-30 | **Grey Cat** | AE-not-S | [View Logs](./GreyCat/2026-AE_not_S-GreyCat.md) | [Saber](https://github.com/BO-Saber) |
 |23| 2026-05-30 | **Grey Cat** | BabyRSA | [View Logs](./GreyCat/2026-Baby_RSA-GreyCat.md) | [Saber](https://github.com/BO-Saber) |
 |24| 2026-05-30 | **Grey Cat** | Fort Knockies | [View Logs](./GreyCat/2026-Fort_Knockies-GreyCat.md) | [RAMIZ](https://github.com/ramizdevelops) |
+|25| 2026-11-14 | **Platypwn** | Legacy IT | [View Logs](./Platypwn/2o26-Legacy_IT-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
+
 
 
 ---
