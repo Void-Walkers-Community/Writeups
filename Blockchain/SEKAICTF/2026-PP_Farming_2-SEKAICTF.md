@@ -7,7 +7,7 @@ You can find the detailed technical walkthrough for this challenge on my blog po
 
 ### [Read the Full Writeup Here](https://blog.rei.my.id/posts/165/sekaictf-2026-pp-farming-2-blockchain-writeup/)
 
-## 🗂️ Navigation
-* [🔙 Back to Category Directory](../)
-* [🔙 Back to Index Directory](../INDEX.md)
+---
+* [🔙 Back to Blockchain Directory](../)
+* [🔙 Back to Blockchain Index Directory](../INDEX.md)
 * [🔙 Back to Main Directory](../../README.md)
