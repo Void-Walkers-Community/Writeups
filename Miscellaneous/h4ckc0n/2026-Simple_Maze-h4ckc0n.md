@@ -53,3 +53,7 @@ Applying the format from the caption (lowercase, words joined by underscores, wr
 d4rk{how_was_the_maze}
 ```
 
+---
+* [🔙 Back to Miscallaneous Directory](../)
+* [🔙 Back to Miscellaneous Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
