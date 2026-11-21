@@ -45,7 +45,7 @@
 |39| 2026-05-07 | **THCon** | Welcome to Soc | [View Logs](./THCon/2026-Welcome_to_Soc-THCon.md) | [Saber](https://github.com/BO-Saber) |
 |40| 2026-06-27 | **SEKAI CTF** | Survey | [View Logs](./SEKAICTF/2026-Survey-SEKAICTF.md) | [Rei](https://github.com/elliottophellia) | 
 |41| 2026-11-14 | **Platypwn** | Bish Bash Bosh | [View Logs](./Platypwn/2026-Bish_Bash_Bosh-Platypwn.md) | [Zaibi](https://github.com/MIAN024) |
-
+|42| 2026-11-15 | **h4ckc0n** | Hilly Billy | [View Logs](./h4ckc0n/2026-Hilly_Billy-h4ckc0n.md) | Tom4Hawk |
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
 * [🔙 Back to Main Directory](../README.md)
