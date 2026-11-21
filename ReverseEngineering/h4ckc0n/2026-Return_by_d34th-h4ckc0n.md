@@ -15,3 +15,7 @@ Reading the rows from left to right gave the recovery code:
 I entered the tracking ID and recovery code into the program. It accepted the grid and used the code to decrypt and print the flag:
 d4rk{r3turn_0f_r3m_40} 
 
+---
+* [🔙 Back to Reverse Engineering Directory](../)
+* [🔙 Back to Rev Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
