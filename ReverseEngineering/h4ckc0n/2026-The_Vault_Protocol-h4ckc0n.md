@@ -15,3 +15,7 @@ The result is compared with 25 constant bytes: 16 at 0x4d8a80, 8 at 0x4d8bd8, an
 
 Solve. Every stage is a bijection, so there is no brute force and exactly one valid input. I dumped the S-box, key and constants from a gdb breakpoint at the compare. Then I inverted the stages in reverse order: the XOR stream, the chained rotate, the inverse S-box, the inverse permutation, the un-prefix-sum, the right-rotate, and finally the key XOR. My forward model of the pipeline reproduces the target exactly, and the real binary prints Correct! for the recovered string.
 
+---
+* [🔙 Back to Reverse Engineering Directory](../)
+* [🔙 Back to Rev Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
