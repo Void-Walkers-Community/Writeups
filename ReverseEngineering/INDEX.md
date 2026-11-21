@@ -36,7 +36,7 @@
 |32| 2026-05-07 | **THCon** | M4t4rmaxima's Hint | [View Logs](./THCon/2026-M4t4rmaximas_Hint_Part1-THCon.md) | [Karam](https://github.com/path0xu) |
 |33| 2026-11-14 | **Platypwn** | FS Enc | [View Logs](./Platypwn/2026-FS_Enc-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
 |34| 2026-11-14 | **Platypwn** | Matryoshka | [View Logs](./Platypwn/2026-Matryoshka-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
-
+|35| 2026-11-14 | **h4ckc0n** | Return by d34th | [View Logs](./h4ckc0n/2026-R34th_by_d34th-h4ckc0n.md) | Tom4Hawk |
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
 * [🔙 Back to Main Directory](../README.md)
