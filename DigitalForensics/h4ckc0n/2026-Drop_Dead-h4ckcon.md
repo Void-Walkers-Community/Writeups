@@ -78,3 +78,7 @@ Its SHA-256 hash was:
 9f2bce0edb56e82e2e5ecf5e9585f9fb19495c6767f1dd1920742986119ca0f8
 That exactly matched the hash in the filesystem’s README, confirming the correct combination of fragments. The URL led to the flag image. 
 
+---
+* [🔙 Back to Digital Forensics Directory](../)
+* [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
