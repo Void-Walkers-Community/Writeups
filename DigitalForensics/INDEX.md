@@ -46,6 +46,7 @@
 |42| 2026-05-01 | **KubSTU CTF** | is the report in english? | [View Logs](./KubSTU/2026-is_the_report_in_english-KubSTU.md) | [Karam](https://github.com/path0xu) |
 |43| 2026-11-15 | **h4ckc0n** | Message from Miku | [View Logs](./h4ckc0n/2026-Message_from_Miku-h4ckc0n.md) | Tom4Hawk |
 |44| 2026-11-15 | **h4ckc0n** | Weighty Words | [View Logs](./h4ckc0n/2026-Weighty_Words-h4ckc0n.md) | Tom4Hawk |
+|45| 2026-11-15 | **h4ckc0n** | First GTA VI Copy | [View Logs](./h4ckc0n/2026-First_GTA_VI_Copy-h4ckc0n.md) | Tom4Hawk |
 ---
 * [🔙 Back to Forensics Directory](../DigitalForensics)
 * [🔙 Back to Main Directory](../README.md)
