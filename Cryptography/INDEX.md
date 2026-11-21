@@ -54,7 +54,7 @@
 |43| 2026-11-14 | **Platypwn** | DEStruction | [View Logs](./Platypwn/2026-DEStruction-Platypwn.md) | [Hackerayu](https://github.com/Hackearyu1) |
 |44| 2026-11-14 | **Platypwn** | Ron's Revenge | [View Logs](./Platypwn/2026-Rons_Revenge-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
 |45| 2026-11-14 | **Platypwn** | Unholy Trinity| [View Logs](./Platypwn/2026-Unholy_Trinity-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
-
+|46| 2026-11-14 | **h4ckc0n** | Brew & Drew | [View Logs](./h4ckc0n/2026-Brew_&_Drew-h4ckc0n.md) | Tom4Hawk |
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
 * [🔙 Back to Main Directory](../README.md)
