@@ -27,7 +27,7 @@
 |23| 2026-05-30 | **Grey Cat** | BabyRSA | [View Logs](./GreyCat/2026-Baby_RSA-GreyCat.md) | [Saber](https://github.com/BO-Saber) |
 |24| 2026-05-30 | **Grey Cat** | Fort Knockies | [View Logs](./GreyCat/2026-Fort_Knockies-GreyCat.md) | [RAMIZ](https://github.com/ramizdevelops) |
 |25| 2026-11-14 | **Platypwn** | Legacy IT | [View Logs](./Platypwn/2026-Lagacy_IT-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
-
+|26| 2026-11-14 | **h4ckc0n** | Hidden In Plain Sight | [View Logs](./h4ckc0n/2026-Hidden_In_Plain_Sight-h4ckc0n.md) | Tom4Hawk 
 
 
 ---
