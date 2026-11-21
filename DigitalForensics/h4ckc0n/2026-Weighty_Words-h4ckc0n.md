@@ -56,4 +56,8 @@ The larger SCI image was 16,512 × 9,288 pixels and stored as floating-point val
 
 One set of pixels contained a small number of unusually bright values. Isolating those bright pixels revealed faint writing near the lower-right area of the image.
 
+---
+* [🔙 Back to Digital Forensics Directory](../)
+* [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
 
