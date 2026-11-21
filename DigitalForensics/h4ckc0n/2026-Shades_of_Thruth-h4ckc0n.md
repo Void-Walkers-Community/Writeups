@@ -31,12 +31,17 @@ result = Image.fromarray((hidden 255).astype("uint8"))
 Crop around the lettering and enlarge it without smoothing.
 result = result.crop((0, 85, 750, 160))
 result = result.resize((2250, 225), Image.Resampling.NEAREST)
-result.save("extracted-text.png")```
+result.save("extracted-text.png")
+`
+```
 
 g4un{dvf11_o0y3} was recovered
-After using caesar cipher I got d4rk{asc11_l0v3}
+After using caesar cipher I got d4rk{asc11_l0v3} 
 
 ---
 * [🔙 Back to Digital Forensics Directory](../)
 * [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
-* [🔙 Back to Main Directory](../../README.md) 
+* [🔙 Back to Main Directory](../../README.md)
+
+
+
