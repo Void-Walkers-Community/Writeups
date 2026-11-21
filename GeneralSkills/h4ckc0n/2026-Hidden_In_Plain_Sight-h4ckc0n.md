@@ -8,3 +8,8 @@ The grid could be divided into nine smaller 3×3 sections. Each section had numb
 
 Took a really long time to figure out what it was and the flag is 
 d4rk{fediverse} 
+
+---
+* [🔙 Back to General Skills Directory](../)
+* [🔙 Back to General Skills Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
