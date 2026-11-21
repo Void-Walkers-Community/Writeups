@@ -12,3 +12,7 @@ For each counter, compute SHA256(material_ascii || counter_u32_be) and XOR the r
 
 d4rk{quantum_echo_reuse_breaks_the_pad}
 
+---
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
