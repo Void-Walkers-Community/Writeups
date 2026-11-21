@@ -28,7 +28,7 @@
 |24| 2026-05-30 | **Grey Cat** | Fort Knockies | [View Logs](./GreyCat/2026-Fort_Knockies-GreyCat.md) | [RAMIZ](https://github.com/ramizdevelops) |
 |25| 2026-11-14 | **Platypwn** | Legacy IT | [View Logs](./Platypwn/2026-Lagacy_IT-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
 |26| 2026-11-14 | **h4ckc0n** | Hidden In Plain Sight | [View Logs](./h4ckc0n/2026-Hidden_In_Plain_Sight-h4ckc0n.md) | Tom4Hawk 
-|27| 2026-11-14 | **h4ckc0n** | Compiler? I Barely Know Her! | [View Logs](./h4ckc0n/2026-Compiler?_I_Barely_Know_Her!-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) |
+|27| 2026-11-14 | **h4ckc0n** | Compiler?_I_Barely_Know_Her | [View Logs](./h4ckc0n/2026-Compiler?_I_Barely_Know_Her-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) |
 
 ---
 * [🔙 Back to General Skill Directory](../GeneralSkills)
