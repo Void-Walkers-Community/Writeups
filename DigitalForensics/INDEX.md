@@ -44,7 +44,7 @@
 |40| 2026-05-01 | **KubSTU CTF** | We have an incident | [View Logs](./KubSTU/2026-We_have_an_incident-KubSTU.md) | [MRPS](https://github.com/Priyanshuofficial1) |
 |41| 2026-05-01 | **KubSTU CTF** | Wirepass | [View Logs](./KubSTU/2026-Wirepass-KubSTU.md) | [Karam](https://github.com/path0xu) |
 |42| 2026-05-01 | **KubSTU CTF** | is the report in english? | [View Logs](./KubSTU/2026-is_the_report_in_english-KubSTU.md) | [Karam](https://github.com/path0xu) |
-
+|43| 2026-11-15 | **h4ckc0n** | Message from Miku | [View Logs](./h4ckc0n/2026-Message_from_Miku-h4ckc0n.md) | Tom4Hawk |
 
 ---
 * [🔙 Back to Forensics Directory](../DigitalForensics)
