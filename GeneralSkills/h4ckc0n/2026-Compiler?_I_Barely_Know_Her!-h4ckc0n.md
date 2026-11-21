@@ -1,0 +1,20 @@
+Write-up- compiler? I barely know her!
+The runtime allocates arrays from a shared arena. For an array of n slots, it requests 8*n + 8 bytes, but doesn’t check whether that size overflows. It then stores n in the array header.
+
+Choose n = 2^61. Multiplying by 8 wraps to zero, so the allocator reserves only the 8-byte header (rounded up to 16 bytes), while the array still reports a huge length. The bounds check therefore accepts index 1, whose address is 16 bytes past the array’s start.
+
+register(dummy) allocates its callback record in the next 16 bytes of the same arena. That makes a[1] overlap the callback pointer. Writing 0x4010000 replaces it with the address of win, which the runtime calls at program exit.
+
+fn dummy() { return 0; }
+let a = array(0x2000000000000000);
+register(dummy);
+a[1] = 0x4010000;
+
+
+The service printed:
+
+d4rk{s1gned_0r_Uns1gn3d??_676767}c0de
+
+
+The trailing c0de appeared after the closing brace in the service output. 
+
