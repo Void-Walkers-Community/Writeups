@@ -88,3 +88,6 @@ d4rk{hinjaku!hinjaku!}
 
 The user confirmed that the second string is the accepted flag. OpenCV's `QRCodeDetector().detectAndDecode()` successfully read both codes after the decoded images were enlarged fourfold with nearest-neighbor interpolation.
 
+---
+* [🔙 Back to AI Directory](../AI)
+* [🔙 Back to Main Directory](../README.md)
