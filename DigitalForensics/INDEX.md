@@ -47,7 +47,7 @@
 |43| 2026-11-15 | **h4ckc0n** | Message from Miku | [View Logs](./h4ckc0n/2026-Message_from_Miku-h4ckc0n.md) | Tom4Hawk |
 |44| 2026-11-15 | **h4ckc0n** | Weighty Words | [View Logs](./h4ckc0n/2026-Weighty_Words-h4ckc0n.md) | Tom4Hawk |
 |45| 2026-11-14 | **h4ckc0n** | Drop Dead| [View Logs](./h4ckc0n/2026-Drop_Dead-h4ckc0n.md) | Tom4Hawk | 
-|46| 2026-11-14 | **h4ckc0n** | Shades of Truth | [View Logs](./h4ckc0n/2026-Shades_Of_Truth-h4ckc0n.md) | Tom4Hawk | 
+|46| 2026-11-14 | **h4ckc0n** | Shades of Truth | [View Logs](./h4ckc0n/2026-Shades_of_Truth-h4ckc0n.md) | Tom4Hawk | 
 
 ---
 * [🔙 Back to Forensics Directory](../DigitalForensics)
