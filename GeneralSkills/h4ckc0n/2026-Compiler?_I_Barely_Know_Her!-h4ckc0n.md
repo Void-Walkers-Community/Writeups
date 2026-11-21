@@ -18,3 +18,7 @@ d4rk{s1gned_0r_Uns1gn3d??_676767}c0de
 
 The trailing c0de appeared after the closing brace in the service output. 
 
+---
+* [🔙 Back to General Skills Directory](../)
+* [🔙 Back to General Skills Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
