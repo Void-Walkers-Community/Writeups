@@ -36,3 +36,7 @@ result.save("extracted-text.png")```
 g4un{dvf11_o0y3} was recovered
 After using caesar cipher I got d4rk{asc11_l0v3}
 
+---
+* [🔙 Back to Digital Forensics Directory](../)
+* [🔙 Back to Digital Forensics Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md) 
