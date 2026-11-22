@@ -28,7 +28,8 @@
 |24| 2026-05-30 | **Grey Cat** | Fort Knockies | [View Logs](./GreyCat/2026-Fort_Knockies-GreyCat.md) | [RAMIZ](https://github.com/ramizdevelops) |
 |25| 2026-11-14 | **Platypwn** | Legacy IT | [View Logs](./Platypwn/2026-Lagacy_IT-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
 |26| 2026-11-14 | **h4ckc0n** | Hidden In Plain Sight | [View Logs](./h4ckc0n/2026-Hidden_In_Plain_Sight-h4ckc0n.md) | Tom4Hawk |
-|27| 2026-11-15| **h4ckc0n** | Sanity Check | [View Logs](./h4ckc0n/2026-Sanity_Check-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) 
+|27| 2026-11-15| **h4ckc0n** | Sanity Check | [View Logs](./h4ckc0n/2026-Sanity_Check-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) |
+|28| 2026-11-15| **h4ckc0n** | Read the Rules | [View Logs](./h4ckc0n/2026-Read_the_Rules-h4ckc0n.md) | [Hackerayu](https://github.com/Hackearyu1) |
 
 ---
 * [🔙 Back to General Skill Directory](../GeneralSkills)
