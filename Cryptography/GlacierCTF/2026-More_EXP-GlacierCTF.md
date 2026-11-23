@@ -34,3 +34,7 @@ Decode the resulting integer to bytes and print the flag — no factoring, no pr
 Key lesson
 A single RSA modulus with unpadded messages and user-chosen exponents is broken by the common-modulus attack; requiring large exponents doesn't help, and allowing arbitrary messages leaks N for free
 
+---
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
