@@ -52,7 +52,9 @@
 |48| 2026-05-07 | **THCon** | Gunner's Vaccation Bis Part 1 | [View Logs](./THCon/2026-Gunners_Vaccation_Bis_Part1-THCon.md) | [Saber](https://github.com/BO-Saber) |
 |49| 2026-11-15 | **h4ckc0n** | First GTA VI Copy| [View Logs](./h4ckc0n/2026-First_GTA_VI_Copy-h4ckc0n.md) | Tom4Hawk |
 |50| 2026-11-15 | **h4ckc0n** | Who Ran | [View Logs](./h4ckc0n/2026-Who_Ran-h4ckc0n.md) | Tom4Hawk |
-|50| 2026-11-15 | **h4ckc0n** | State Property | [View Logs](./h4ckc0n/2026-State_Property-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) |
+|51| 2026-11-15 | **h4ckc0n** | State Property | [View Logs](./h4ckc0n/2026-State_Property-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) |
+|52| 2026-11-21 | **Glacier CTF** | Flag On Flag | [View Logs](./GlacierCTF/2026-Flag_On_Flag-GlacierCTF.md) | Tom4Hawk |
+
 ---
 * [🔙 Back to OSINT Directory](../OSINT)
 * [🔙 Back to Main Directory](../README.md)
