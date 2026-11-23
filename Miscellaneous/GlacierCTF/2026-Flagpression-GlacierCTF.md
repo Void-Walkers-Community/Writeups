@@ -26,3 +26,7 @@ The challenge demonstrated that compression provides no secrecy when its model i
 
 Flag: gctf{876aB98a_c0mpr3ss0rS_4r3_Aw3s0mE_Ar4nT_Th3y_???_12Yha76B2Z}
 
+---
+* [🔙 Back to Miscallaneous Directory](../)
+* [🔙 Back to Miscellaneous Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
