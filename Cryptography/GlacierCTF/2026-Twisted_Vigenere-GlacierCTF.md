@@ -32,4 +32,7 @@ The weakness was the combination of a repeating XOR key and plaintext generated 
 
 Flag: gctf{from_rand0m_!mpor+_n0+_s0_r4nd0m_af+3r_al1} 
 
-
+---
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
