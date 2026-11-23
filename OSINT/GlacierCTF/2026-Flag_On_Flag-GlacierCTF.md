@@ -19,3 +19,7 @@ The XOR key was supported by every byte of the known prefix, rather than just on
 
 This recovered the banner’s hidden message; challenge-server acceptance was not checked. 
 
+---
+* [🔙 Back to OSINT Directory](../)
+* [🔙 Back to OSINT Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
