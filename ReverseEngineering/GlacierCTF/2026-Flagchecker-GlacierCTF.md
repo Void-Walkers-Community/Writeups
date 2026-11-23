@@ -100,3 +100,7 @@ $ echo 'gctf{cf776a78f2488869cebfefd87a3e6a9fd582b9e556d0779216c5bb5b45ea4a70}' 
 Enter flag:
 ... (10 lines left)
 ```
+---
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
