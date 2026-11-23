@@ -27,3 +27,7 @@ The flag text ("gaus5 and g41oi5 to the rescue") matches the intended solution: 
 
 The solver is at `/home/claude/solve2g.py`. I can package it with this writeup if you want. 
 
+---
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
