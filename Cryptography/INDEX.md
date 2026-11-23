@@ -56,9 +56,10 @@
 |45| 2026-11-14 | **Platypwn** | Unholy Trinity| [View Logs](./Platypwn/2026-Unholy_Trinity-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
 |46| 2026-11-14 | **h4ckc0n** | Brew & Drew | [View Logs](./h4ckc0n/2026-Brew_&_Drew-h4ckc0n.md) | Tom4Hawk |
 |47| 2026-11-15 | **h4ckc0n** | Quantum Echo | [View Logs](./h4ckc0n/2026-Quantum_Echo-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) |
-|48| 2026-11-21 | **Glacier CTF** | CSI-HASH | [View Logs](./GlacierCTF/2026-CSI-HASH-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
-|49| 2026-11-21 | **Glacier CTF** | Cold Echo | [View Logs](./GlacierCTF/2026-Cold_Echo-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
-|50| 2026-11-21 | **Glacier CTF** | Decipher Stage 2 | [View Logs](./GlacierCTF/2026-Decipher_Stage_2-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
+|48| 2026-11-20 | **Glacier CTF** | More EXP | [View Logs](./GlacierCTF/2026-More_EXP-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
+|49| 2026-11-20 | **Glacier CTF** | Decipher Stage 2 | [View Logs](./GlacierCTF/2026-Decipher_Stage_2-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
+|50| 2026-11-21 | **Glacier CTF** | CSI-HASH | [View Logs](./GlacierCTF/2026-CSI-HASH-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
+|51| 2026-11-21 | **Glacier CTF** | Cold Echo | [View Logs](./GlacierCTF/2026-Cold_Echo-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
 
 
 ---
