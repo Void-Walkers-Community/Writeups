@@ -58,6 +58,7 @@
 |47| 2026-11-15 | **h4ckc0n** | Quantum Echo | [View Logs](./h4ckc0n/2026-Quantum_Echo-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) |
 |48| 2026-11-21 | **Glacier CTF** | CSI-HASH | [View Logs](./GlacierCTF/2026-CSI-HASH-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
 |49| 2026-11-21 | **Glacier CTF** | Cold Echo | [View Logs](./GlacierCTF/2026-Cold_Echo-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
+|50| 2026-11-21 | **Glacier CTF** | Decipher Stage 2 | [View Logs](./GlacierCTF/2026-Decipher_Stage_2-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
 
 
 ---
