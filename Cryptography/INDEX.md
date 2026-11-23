@@ -56,6 +56,7 @@
 |45| 2026-11-14 | **Platypwn** | Unholy Trinity| [View Logs](./Platypwn/2026-Unholy_Trinity-Platypwn.md) | [Saber](https://github.com/BO-Saber) |
 |46| 2026-11-14 | **h4ckc0n** | Brew & Drew | [View Logs](./h4ckc0n/2026-Brew_&_Drew-h4ckc0n.md) | Tom4Hawk |
 |47| 2026-11-15 | **h4ckc0n** | Quantum Echo | [View Logs](./h4ckc0n/2026-Quantum_Echo-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) |
+|48| 2026-11-21 | **Glacier CTF** | CSI-HASH | [View Logs](./GlacierCTF/2026-CSI-HASH-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
 
 
 ---
