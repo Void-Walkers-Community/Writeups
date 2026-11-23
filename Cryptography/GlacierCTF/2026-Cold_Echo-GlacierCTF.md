@@ -53,3 +53,9 @@ For each candidate, build the receipt message exactly as specified, including th
 Finally, XOR the decoded mask with the prefix of `SHA256(b"cold-echo-flag-pad-v1\n" + message)`, then URL-safe Base64 encode the result without padding. This gives `th3_1c3_k3pt_th3_r3c31pt`, so the flag is:
 
 **`gctf{th3_1c3_k3pt_th3_r3c31pt}`**
+
+
+---
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
