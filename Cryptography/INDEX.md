@@ -60,7 +60,7 @@
 |49| 2026-11-20 | **Glacier CTF** | Decipher Stage 2 | [View Logs](./GlacierCTF/2026-Decipher_Stage_2-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
 |50| 2026-11-21 | **Glacier CTF** | CSI-HASH | [View Logs](./GlacierCTF/2026-CSI-HASH-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
 |51| 2026-11-21 | **Glacier CTF** | Cold Echo | [View Logs](./GlacierCTF/2026-Cold_Echo-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
-
+|52| 2026-11-21 | **Glacier CTF** | El Clasico | [View Logs](./GlacierCTF/2026-El_Clasico-GlacierCTF.md) | Tom4Hawk |
 
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
