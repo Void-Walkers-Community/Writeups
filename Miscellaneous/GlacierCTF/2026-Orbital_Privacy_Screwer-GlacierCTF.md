@@ -100,3 +100,7 @@ Therefore, percentage differences contained no usable Morse information.
 
 ... (103 lines left) 
 
+---
+* [🔙 Back to Miscallaneous Directory](../)
+* [🔙 Back to Miscellaneous Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
