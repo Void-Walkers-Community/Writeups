@@ -47,7 +47,7 @@
 |41| 2026-11-14 | **Platypwn** | Bish Bash Bosh | [View Logs](./Platypwn/2026-Bish_Bash_Bosh-Platypwn.md) | [Zaibi](https://github.com/MIAN024) |
 |42| 2026-11-15 | **h4ckc0n** | Hilly Billy | [View Logs](./h4ckc0n/2026-Hilly_Billy-h4ckc0n.md) | Tom4Hawk | 
 |43| 2026-11-15 | **h4ckc0n** | Simple Maze | [View Logs](./h4ckc0n/2026-Simple_Maze-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) |
-|44| 2026-11-21 | **Glacier CTF** | Flagpression | [View Logs](./GlacierCTF/2026-Flagpression-h4ckc0n.md) | Tom4Hawk | 
+|44| 2026-11-21 | **Glacier CTF** | Flagpression | [View Logs](./GlacierCTF/2026-Flagpression-GlacierCTF.md) | Tom4Hawk | 
 
 ---
 * [🔙 Back to Miscellaneous Directory](../Miscellaneous)
