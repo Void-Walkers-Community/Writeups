@@ -146,5 +146,8 @@ the original hardware.
 - [embedded_pe.bin](/home/z/my-project/download/embedded_pe.bin) — the decrypted inner PE
 - [writeup.md](/home/z/my-project/download/writeup.md) — this writeup
 
-
+---
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
 
