@@ -98,7 +98,80 @@ T1 XOR T2 = (C1_block2 XOR C2_block2) * H²
 Here, H is the GCM authentication subkey.
 
 Therefore:
-... (73 lines left)
+
+```text
+D  = C1_block2 XOR C2_block2
+DT = T1 XOR T2
+
+H² = DT * inverse(D)
+H  = sqrt(H²)
+```
+
+All operations are performed in GF(2^128).
+
+Once H is recovered, the authentication mask can be calculated from the original ciphertext and tag.
+
+## Forging the Protected Record
+
+The desired plaintext is:
+
+```text
+restricted|Ice-VII
+```
+
+with the padding required by the original record encoding.
+
+Since AES-GCM encryption uses counter mode, the forged ciphertext can be calculated as:
+
+```text
+forged_ciphertext =
+    original_ciphertext
+    XOR original_plaintext
+    XOR target_plaintext
+```
+
+The forged authentication tag is:
+
+```text
+mask = original_tag XOR GHASH(H, original_ciphertext)
+
+forged_tag = mask XOR GHASH(H, forged_ciphertext)
+```
+
+The attacker can then submit the forged ciphertext and tag to `/api/open` using the original timestamp.
+
+If the authentication succeeds, the server decrypts the record as `restricted / Ice-VII` and returns the flag.
+
+## Observed Results
+
+The exploit successfully located a timestamp collision candidate:
+
+```text
+[+] 32 records, 1 collision candidates
+[+] Collision:
+1972-12-31T23:59:59Z
+<=>
+1972-12-31T23:59:60Z
+```
+
+However, the Python solver subsequently encountered:
+
+```text
+[-] Error: 'ciphertext'
+```
+
+Further inspection confirmed that the archived record contained the expected ciphertext and tag, but the import response was not successfully parsed.
+
+The available logs therefore do not confirm a completed forgery or a retrieved flag.
+
+## Conclusion
+
+The central weakness was inconsistent timestamp canonicalization. The server checked uniqueness using raw timestamp strings but derived encryption nonces from normalized instants.
+
+This created a potential AES-GCM nonce collision, enabling authentication forgery through GHASH algebra without recovering the AES encryption key.
+
+The challenge demonstrates why cryptographic identifiers must use consistent canonical representations and why GCM nonces must never be reused.
+
 
 ---
 * [🔙 Back to Miscallaneous Directory](../)
