@@ -98,8 +98,18 @@ The 1336 decoys are 69 characters long. Row 706 is 70 characters because `gctf{`
 ```
 $ echo 'gctf{cf776a78f2488869cebfefd87a3e6a9fd582b9e556d0779216c5bb5b45ea4a70}' | ./challenge
 Enter flag:
-... (10 lines left)
+The flag is valid!
 ```
+
+## Takeaways
+
+- A weak check like an XOR checksum gives no real protection, because the answer is stored in the binary.
+- The 1336 decoys make the checker accept many wrong inputs, so a "valid!" message alone doesn't prove you have the real flag. You still have to tell the real flag from the decoys.
+- With symbols and debug info present, `nm` and `objdump` were enough. No decompiler or debugger was needed.
+
+
+I can also save this as a Markdown file if you want to keep it.
+
 ---
 * [🔙 Back to Cryptography Directory](../)
 * [🔙 Back to Cryptography Index Directory](../INDEX.md)
