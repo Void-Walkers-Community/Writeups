@@ -79,4 +79,7 @@ Files
 flag.txt — the flag, plain text.
 writeup.md — this writeup. 
 
-
+---
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
