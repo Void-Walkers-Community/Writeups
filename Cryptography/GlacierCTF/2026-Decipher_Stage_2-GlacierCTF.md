@@ -25,7 +25,7 @@ So the only nonlinear part of each S-box is 2 bits.
 
 The flag text ("gaus5 and g41oi5 to the rescue") matches the intended solution: Gauss for the linear algebra and Galois for the field structure.
 
-The solver is at `/home/claude/solve2g.py`. I can package it with this writeup if you want. 
+The solver is at `/home/claude/solve2g.py`. I can package it with this writeup if you want.
 
 ---
 * [🔙 Back to Cryptography Directory](../)
