@@ -39,6 +39,7 @@
 |35| 2026-11-14 | **h4ckc0n** | Return by d34th | [View Logs](./h4ckc0n/2026-Return_by_d34th-h4ckc0n.md) | Tom4Hawk |
 |36| 2026-11-14 | **h4ckc0n** | The Vault Protocol | [View Logs](./h4ckc0n/2026-The_Vault_Protocol-h4ckc0n.md) | [Saber](https://github.com/BO-Saber) |
 |37| 2026-11-20 | **GlacierCTF** | Flagchecker | [View Logs](./GlacierCTF/2026-Flagchecker-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
+|38| 2026-11-21 | **GlacierCTF** | Frostgate License Manager | [View Logs](./GlacierCTF/2026-Frostgate_License_Manager-GlacierCTF.md) | BlackCipherX  |
 
 ---
 * [🔙 Back to Rev Directory](../ReverseEngineering)
