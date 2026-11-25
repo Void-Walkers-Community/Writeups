@@ -62,7 +62,7 @@
 |51| 2026-11-21 | **Glacier CTF** | Cold Echo | [View Logs](./GlacierCTF/2026-Cold_Echo-GlacierCTF.md) | [Saber](https://github.com/BO-Saber) |
 |52| 2026-11-21 | **Glacier CTF** | El Clasico | [View Logs](./GlacierCTF/2026-El_Clasico-GlacierCTF.md) | Tom4Hawk |
 |53| 2026-11-21 | **Glacier CTF** |Twisted Vigenere | [View Logs](./GlacierCTF/2026-Twisted_Vigenere-GlacierCTF.md) | Tom4Hawk |
-
+|54| 2026-11-22 | **Glacier CTF** | Decipher Stage 1 | [View Logs](./GlacierCTF/2026-Decipher_Stage_2-GlacierCTF.md) | BlackCipherX |
 ---
 * [🔙 Back to Crypto Directory](../Cryptography)
 * [🔙 Back to Main Directory](../README.md)
