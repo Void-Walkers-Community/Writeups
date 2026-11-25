@@ -85,4 +85,7 @@ real Google Chrome (headed, under Xvfb) through the Turnstile check to
 obtain a `cf_clearance` cookie, then downloading
 `decipher-1.tar.gz` inside that cleared browser context.
 
-
+---
+* [🔙 Back to Cryptography Directory](../)
+* [🔙 Back to Cryptography Index Directory](../INDEX.md)
+* [🔙 Back to Main Directory](../../README.md)
