@@ -98,7 +98,109 @@ However, the live server returned the same percentage increase for every event:
 
 Therefore, percentage differences contained no usable Morse information.
 
-... (103 lines left) 
+This was an important finding: the supplied source calculated progress using cumulative event durations, but the observed live service produced uniform percentage increments.
+
+We abandoned percentage-based decoding and focused entirely on event timing.
+
+## 6. Second Attempt — Timing-Based Decoding
+
+We recorded the arrival time of each SSE event using Python's `time.perf_counter()`.
+
+For consecutive events, we calculated:
+
+`duration_ms = (next_timestamp - current_timestamp) * 1000`
+
+We then classified the symbols using a threshold of 100 milliseconds:
+
+- Duration below 100 ms → `.`
+- Duration above 100 ms → `-`
+- `carrier = false` → Character separator
+
+This produced a nearly recognizable message beginning with `GCTF`, but several characters were incorrect.
+
+The problem was network jitter. Internet latency caused some event durations to deviate from their expected 67 ms or 133 ms values.
+
+A single measurement was not sufficiently reliable.
+
+## 7. Final Solution — Multiple Captures and Median Timing
+
+To eliminate timing noise, we developed `orbital_multi_solver.py`.
+
+The solver performed the following operations:
+
+1. Connected to the GlacierCTF launcher and started an instance.
+2. Waited until `/api/health` returned `ONLINE`.
+3. Opened `/api/acquire` and captured all 67 events.
+4. Repeated the acquisition **nine times**, using separate request and session identifiers.
+5. Collected the duration of each event across all nine runs.
+6. Calculated the median duration for each event index.
+7. Classified dots and dashes using the median timings.
+8. Split characters at separator events and decoded the Morse sequence.
+
+We used the median rather than the mean because it is less sensitive to occasional large network delays.
+
+The important decoding logic was:
+
+`median_duration[i] = median(duration_from_each_capture[i])`
+
+`symbol = "-" if median_duration[i] >= 100 else "."`
+
+We also implemented an independent verification method that classified the 22 longest active signals as dashes, matching the expected dash count in the source.
+
+Both approaches recovered the same message.
+
+## 8. Successful Results
+
+After nine acquisitions, the solver reported:
+
+| Measurement | Result |
+|---|---:|
+| Successful captures | 9 |
+| Events per capture | 67 |
+| Active carrier events | 52 |
+| Character separators | 15 |
+| Reconstructed dots | 30 |
+| Reconstructed dashes | 22 |
+
+The final Morse transmission was:
+
+```text
+--. / -.-. / - / ..-. / ----- / -... / .-.. / .. / ...- / - / -.. / .-. / ...-- / ... / --... / -
+```
+
+Decoding each token produced:
+
+```text
+G C T F 0 B L I V T D R 3 S 7 T
+```
+
+Both the 100 ms threshold method and the duration-ranking method agreed:
+
+```text
+GCTF0BLIVTDR3S7T
+```
+
+The result also matched the source's expected dot, dash, separator, and total-event counts.
+
+After converting the decoded text to lowercase, we obtained the flag.
+
+## 9. Flag
+
+**`gctf0blivtdr3s7t`**
+
+The value was recovered from the live server's timing data and independently verified using two decoding methods. The challenge platform's submission response was not captured in this writeup.
+
+## 10. Conclusion
+
+Orbital Privacy Screwer demonstrates how sensitive information can leak through timing even when the data itself is hidden from API responses.
+
+The application encoded its flag using Morse code and transmitted the information through predictable delays between SSE events.
+
+Although the response fields did not explicitly reveal the flag, the timing differences provided enough information to reconstruct the complete message.
+
+Network jitter initially caused incorrect decoding, but repeating the transmission nine times and calculating median event durations produced a reliable result.
+
+**Key takeaway:** Hiding information from response bodies does not prevent disclosure when secret-dependent behavior is observable through timing. This challenge was solved using side-channel analysis, repeated measurements, and Morse decoding.
 
 ---
 * [🔙 Back to Miscallaneous Directory](../)
